@@ -418,5 +418,450 @@
             }
         ],
         "prompt": "HDR"
+    },
+    {
+        "id": "a3a5e399-730c-11ee-b108-9897ccfa9bed",
+        "time": 1698220861,
+        "name": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+        "tags": [
+            {
+                "id": "1698220806691864205",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "extremely detailed",
+                    "right": ":1.2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(extremely detailed:1.2)"
+    },
+    {
+        "id": "a64371bf-730c-11ee-a454-9897ccfa9bed",
+        "time": 1698220866,
+        "name": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+        "tags": [
+            {
+                "id": "1698220806691717344",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "best quality",
+                    "right": ":1.2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(best quality:1.2)"
+    },
+    {
+        "id": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed",
+        "time": 1698220870,
+        "name": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+        "tags": [
+            {
+                "id": "1698220806692593219",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "extremely detailed face",
+                    "right": ")"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(extremely detailed face)"
+    },
+    {
+        "id": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed",
+        "time": 1698220873,
+        "name": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+        "tags": [
+            {
+                "id": "1698220806692548596",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "photorealistic",
+                    "right": ":1.2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(photorealistic:1.2)"
+    },
+    {
+        "id": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed",
+        "time": 1698220876,
+        "name": "(\u8d85\u8be6\u7ec6)",
+        "tags": [
+            {
+                "id": "1698220806692259747",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "ultra detailed",
+                    "right": ")"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(ultra detailed)"
+    },
+    {
+        "id": "c2bf71d8-7313-11ee-a1b6-9897ccfa9bed",
+        "time": 1698223920,
+        "name": "\u4e0d\u5bf9\u79f0\u8fde\u8863\u88d9",
+        "tags": [
+            {
+                "id": "1698223854364777406",
+                "value": "Asymmetrical Dress",
+                "localValue": "\u4e0d\u5bf9\u79f0\u8fde\u8863\u88d9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Asymmetrical Dress",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Asymmetrical Dress"
+    },
+    {
+        "id": "317e24f9-7314-11ee-97f8-9897ccfa9bed",
+        "time": 1698224106,
+        "name": "\u65e0\u80a9\u5e26\u8fde\u8863\u88d9",
+        "tags": [
+            {
+                "id": "1698224097179531196",
+                "value": "Strapless Dress",
+                "localValue": "\u65e0\u80a9\u5e26\u8fde\u8863\u88d9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Strapless Dress",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Strapless Dress"
+    },
+    {
+        "id": "440724e5-7314-11ee-ac15-9897ccfa9bed",
+        "time": 1698224137,
+        "name": "Tutu\u88d9",
+        "tags": [
+            {
+                "id": "1698224131766606607",
+                "value": "Tutu Skirt",
+                "localValue": "Tutu\u88d9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Tutu Skirt",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Tutu Skirt"
+    },
+    {
+        "id": "5a4bc5c3-7314-11ee-aa6c-9897ccfa9bed",
+        "time": 1698224174,
+        "name": "\u9c7c\u5c3e\u88d9",
+        "tags": [
+            {
+                "id": "1698224166424397461",
+                "value": "Mermaid Dress",
+                "localValue": "\u9c7c\u5c3e\u88d9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Mermaid Dress",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Mermaid Dress"
+    },
+    {
+        "id": "b57a560f-7326-11ee-9ff6-9897ccfa9bed",
+        "time": 1698232058,
+        "name": "\u5185\u8863",
+        "tags": [
+            {
+                "id": "1698231872825948048",
+                "value": "underwear",
+                "localValue": "\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "underwear"
+    },
+    {
+        "id": "e6c38bd2-7326-11ee-9f4c-9897ccfa9bed",
+        "time": 1698232141,
+        "name": "\u523a\u7ee3\u7684",
+        "tags": [
+            {
+                "id": "1698232124962988379",
+                "value": "Embroidered",
+                "localValue": "\u523a\u7ee3\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Embroidered",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Embroidered"
+    },
+    {
+        "id": "e8741408-7326-11ee-beb6-9897ccfa9bed",
+        "time": 1698232144,
+        "name": "\u4e1d\u7ec7\u7269\uff0c\u4e1d\u7ef8\uff0c\u4e1d\u7ebf",
+        "tags": [
+            {
+                "id": "1698232124962539818",
+                "value": "Silk",
+                "localValue": "\u4e1d\u7ec7\u7269\uff0c\u4e1d\u7ef8\uff0c\u4e1d\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Silk",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Silk"
+    },
+    {
+        "id": "0110d1df-7327-11ee-aeb1-9897ccfa9bed",
+        "time": 1698232185,
+        "name": "\u4f4e\u8170\u5185\u8863",
+        "tags": [
+            {
+                "id": "1698232124961363511",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Low-rise underwear"
+    },
+    {
+        "id": "12a08b0b-7328-11ee-aa95-9897ccfa9bed",
+        "time": 1698232644,
+        "name": "\u8fd0\u52a8\u978b",
+        "tags": [
+            {
+                "id": "1698232600142410006",
+                "value": "sports shoes",
+                "localValue": "\u8fd0\u52a8\u978b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sports shoes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sports shoes"
     }
 ]
