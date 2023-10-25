@@ -1,0 +1,422 @@
+[
+    {
+        "id": "08442d9f-698f-11ee-9269-00155d033d15",
+        "time": 1697177353,
+        "name": "\u88f8\u4f53",
+        "tags": [
+            {
+                "id": "1697177138078863771",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "nudity"
+    },
+    {
+        "id": "469fb19b-698f-11ee-bc48-00155d033d15",
+        "time": 1697177458,
+        "name": "\u8272\u60c5\u4f5c\u54c1",
+        "tags": [
+            {
+                "id": "1697177138079684479",
+                "value": "erotica",
+                "localValue": "\u8272\u60c5\u4f5c\u54c1",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "erotica",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "erotica"
+    },
+    {
+        "id": "5a61073d-698f-11ee-9dcb-00155d033d15",
+        "time": 1697177491,
+        "name": "\u5927\u81ea\u7136\u7684\u6770\u4f5c",
+        "tags": [
+            {
+                "id": "1697177138079179919",
+                "value": "nature's masterpiece",
+                "localValue": "\u5927\u81ea\u7136\u7684\u6770\u4f5c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nature's masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "nature's masterpiece"
+    },
+    {
+        "id": "503c54d9-721e-11ee-8613-9897ccfa9bed",
+        "time": 1698118501,
+        "name": "\u6770\u4f5c",
+        "tags": [
+            {
+                "id": "1698118491008683783",
+                "value": "masterpiece",
+                "localValue": "\u6770\u4f5c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "masterpiece"
+    },
+    {
+        "id": "28c2bd96-7225-11ee-8e6c-9897ccfa9bed",
+        "time": 1698121441,
+        "name": "\u540a\u5e26\u886b",
+        "tags": [
+            {
+                "id": "1698121433847905256",
+                "value": "Spaghetti Strap Top",
+                "localValue": "\u540a\u5e26\u886b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Spaghetti Strap Top",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Spaghetti Strap Top"
+    },
+    {
+        "id": "3784a1fe-7230-11ee-b8fc-9897ccfa9bed",
+        "time": 1698126191,
+        "name": "\u6bdb\u7ed2\u62d6\u978b",
+        "tags": [
+            {
+                "id": "1698126170682916294",
+                "value": "Fluffy Slippers",
+                "localValue": "\u6bdb\u7ed2\u62d6\u978b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Fluffy Slippers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Fluffy Slippers"
+    },
+    {
+        "id": "62d924b7-7231-11ee-94b8-9897ccfa9bed",
+        "time": 1698126693,
+        "name": "\u590d\u53e4\u5370\u82b1\u5e8a\u5355",
+        "tags": [
+            {
+                "id": "1698126619918759226",
+                "value": "Vintage Print Bed Sheets",
+                "localValue": "\u590d\u53e4\u5370\u82b1\u5e8a\u5355",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Vintage Print Bed Sheets",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Vintage Print Bed Sheets"
+    },
+    {
+        "id": "c8a3cc35-7239-11ee-b129-9897ccfa9bed",
+        "time": 1698130299,
+        "name": "\u5927\u773c\u775b",
+        "tags": [
+            {
+                "id": "1698130236293850561",
+                "value": "big eyes",
+                "localValue": "\u5927\u773c\u775b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "big eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "big eyes"
+    },
+    {
+        "id": "a7d8cb5d-7309-11ee-bb64-9897ccfa9bed",
+        "time": 1698219580,
+        "name": "\u7ec6\u8282\u9762",
+        "tags": [
+            {
+                "id": "1698219561882645876",
+                "value": "detailed face",
+                "localValue": "\u7ec6\u8282\u9762",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "detailed face"
+    },
+    {
+        "id": "105b949c-730a-11ee-9a18-9897ccfa9bed",
+        "time": 1698219755,
+        "name": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+        "tags": [
+            {
+                "id": "1698219654402958614",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "hyper realism"
+    },
+    {
+        "id": "18ec948e-730a-11ee-ab5e-9897ccfa9bed",
+        "time": 1698219770,
+        "name": "\u67d4\u5149",
+        "tags": [
+            {
+                "id": "1698219654402519051",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "soft light"
+    },
+    {
+        "id": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed",
+        "time": 1698219772,
+        "name": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+        "tags": [
+            {
+                "id": "1698219654402435792",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "dramatic light"
+    },
+    {
+        "id": "1c7a9d4b-730a-11ee-bd81-9897ccfa9bed",
+        "time": 1698219775,
+        "name": "\u5c16\u9510\u7684",
+        "tags": [
+            {
+                "id": "1698219654402676956",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sharp"
+    },
+    {
+        "id": "1d6a547b-730a-11ee-8d71-9897ccfa9bed",
+        "time": 1698219777,
+        "name": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+        "tags": [
+            {
+                "id": "1698219654402924428",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "HDR"
+    }
+]
