@@ -1,1360 +1,5 @@
 [
     {
-        "id": "ecc74dcd-7238-11ee-8cf8-9897ccfa9bed",
-        "time": 1698129931,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698129803052839087",
-                "value": "(1girl:1.1)",
-                "localValue": "(1\u5973\u5b69:1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129846948217815",
-                "value": "teenager",
-                "localValue": "\u9752\u5c11\u5e74(13-19)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "teenager",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "169812981782395991",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129828485726803",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "169812987039696637",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129903115766539",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698126619918889590",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "(1girl:1.1),teenager,solo,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "edbd2a9a-7238-11ee-9311-9897ccfa9bed",
-        "time": 1698129932,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698129803052839087",
-                "value": "(1girl:1.1)",
-                "localValue": "(1\u5973\u5b69:1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129846948217815",
-                "value": "(teenager:1.1)",
-                "localValue": "(\u9752\u5c11\u5e74(13-19):1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "teenager",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "169812981782395991",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129828485726803",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "169812987039696637",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698129903115766539",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698126619918889590",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "(1girl:1.1),(teenager:1.1),solo,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "a2ca6bda-7239-11ee-85d2-9897ccfa9bed",
-        "time": 1698130236,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236292563277",
-                "value": "(1girl:1.1)",
-                "localValue": "(1\u5973\u5b69:1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236292620647",
-                "value": "(teenager:1.1)",
-                "localValue": "(\u9752\u5c11\u5e74(13-19):1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "teenager",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236292401328",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293850561",
-                "value": "big eyes",
-                "localValue": "\u5927\u773c\u775b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "big eyes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            }
-        ],
-        "prompt": "(1girl:1.1),(teenager:1.1),solo,bishoujo,long_eyelashes,ahegao,masterpiece,big eyes,"
-    },
-    {
-        "id": "cad3f3be-7239-11ee-9eea-9897ccfa9bed",
-        "time": 1698130303,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236292563277",
-                "value": "(1girl:1.1)",
-                "localValue": "(1\u5973\u5b69:1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236292620647",
-                "value": "(teenager:1.1)",
-                "localValue": "(\u9752\u5c11\u5e74(13-19):1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "teenager",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236292401328",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293850561",
-                "value": "big eyes",
-                "localValue": "\u5927\u773c\u775b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "big eyes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "c8a3cc35-7239-11ee-b129-9897ccfa9bed"
-            },
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "(1girl:1.1),(teenager:1.1),solo,big eyes,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "1c7dcd49-7241-11ee-9bd0-9897ccfa9bed",
-        "time": 1698133447,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236292620647",
-                "value": "(teenager:1.1)",
-                "localValue": "(\u9752\u5c11\u5e74(13-19):1.1)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "teenager",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236292401328",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293850561",
-                "value": "big eyes",
-                "localValue": "\u5927\u773c\u775b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "big eyes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "c8a3cc35-7239-11ee-b129-9897ccfa9bed"
-            },
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "(teenager:1.1),solo,big eyes,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "1d584f06-7241-11ee-9d10-9897ccfa9bed",
-        "time": 1698133448,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236292401328",
-                "value": "solo",
-                "localValue": "\u5355\u4eba",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "solo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293850561",
-                "value": "big eyes",
-                "localValue": "\u5927\u773c\u775b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "big eyes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "c8a3cc35-7239-11ee-b129-9897ccfa9bed"
-            },
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "solo,big eyes,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "1e107b1a-7241-11ee-8985-9897ccfa9bed",
-        "time": 1698133449,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236293850561",
-                "value": "big eyes",
-                "localValue": "\u5927\u773c\u775b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "big eyes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "c8a3cc35-7239-11ee-b129-9897ccfa9bed"
-            },
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "big eyes,bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "1f05b098-7241-11ee-8121-9897ccfa9bed",
-        "time": 1698133451,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236293621913",
-                "value": "bishoujo",
-                "localValue": "\u7f8e\u5c11\u5973",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "bishoujo",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "bishoujo,long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "1f731aea-7241-11ee-a26e-9897ccfa9bed",
-        "time": 1698133452,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236293105248",
-                "value": "long_eyelashes",
-                "localValue": "\u957f\u776b\u6bdb",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long_eyelashes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "long_eyelashes,ahegao,masterpiece,"
-    },
-    {
-        "id": "205a6d89-7241-11ee-8a3d-9897ccfa9bed",
-        "time": 1698133453,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236293521069",
-                "value": "ahegao",
-                "localValue": "\u963f\u563f\u989c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "ahegao",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "ahegao,masterpiece,"
-    },
-    {
-        "id": "21295636-7241-11ee-b3dc-9897ccfa9bed",
-        "time": 1698133454,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698130236293437348",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            }
-        ],
-        "prompt": "masterpiece,"
-    },
-    {
-        "id": "271444c2-7241-11ee-8cc8-9897ccfa9bed",
-        "time": 1698133464,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698133463597506882",
-                "value": "long hair",
-                "localValue": "\u957f\u53d1",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long hair",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1698133463597941831",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            }
-        ],
-        "prompt": "long hair,masterpiece,"
-    },
-    {
-        "id": "99b2f85b-7241-11ee-b909-9897ccfa9bed",
-        "time": 1698133657,
-        "name": "",
-        "tags": [
-            {
-                "id": "1698133463597506882",
-                "value": "long hair",
-                "localValue": "\u957f\u53d1",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "long hair",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1698133463597941831",
-                "value": "masterpiece",
-                "localValue": "\u6770\u4f5c",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "masterpiece",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": "503c54d9-721e-11ee-8613-9897ccfa9bed"
-            },
-            {
-                "id": "1698133657113296111",
-                "value": "black hair",
-                "localValue": "\u9ed1\u8272\u5934\u53d1",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "black hair",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            }
-        ],
-        "prompt": "long hair,masterpiece,black hair,"
-    },
-    {
         "id": "9b00ae0b-7241-11ee-ad7a-9897ccfa9bed",
         "time": 1698133659,
         "name": "",
@@ -20922,5 +19567,3524 @@
             }
         ],
         "prompt": "1girl,Low-rise underwear,Embroidered,Silk,nudity,thigh,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "49eeae92-732c-11ee-ba30-9897ccfa9bed",
+        "time": 1698234455,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600141888495",
+                "value": "Embroidered",
+                "localValue": "\u523a\u7ee3\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Embroidered",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e6c38bd2-7326-11ee-9f4c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600141604229",
+                "value": "Silk",
+                "localValue": "\u4e1d\u7ec7\u7269\uff0c\u4e1d\u7ef8\uff0c\u4e1d\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Silk",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e8741408-7326-11ee-beb6-9897ccfa9bed"
+            },
+            {
+                "id": "169823266260411573",
+                "value": "thigh",
+                "localValue": "\u5927\u817f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u5927\u817f",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            },
+            {
+                "id": "1698232621876122898",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,Embroidered,Silk,thigh,nudity,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "4c1b97c9-732c-11ee-91ed-9897ccfa9bed",
+        "time": 1698234458,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232621876122898",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698232600141888495",
+                "value": "Embroidered",
+                "localValue": "\u523a\u7ee3\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Embroidered",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e6c38bd2-7326-11ee-9f4c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600141604229",
+                "value": "Silk",
+                "localValue": "\u4e1d\u7ec7\u7269\uff0c\u4e1d\u7ef8\uff0c\u4e1d\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Silk",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e8741408-7326-11ee-beb6-9897ccfa9bed"
+            },
+            {
+                "id": "169823266260411573",
+                "value": "thigh",
+                "localValue": "\u5927\u817f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u5927\u817f",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,nudity,Embroidered,Silk,thigh,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "72ac25e3-7333-11ee-8ade-9897ccfa9bed",
+        "time": 1698237529,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232621876122898",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698232600141888495",
+                "value": "Embroidered",
+                "localValue": "\u523a\u7ee3\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Embroidered",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e6c38bd2-7326-11ee-9f4c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600141604229",
+                "value": "Silk",
+                "localValue": "\u4e1d\u7ec7\u7269\uff0c\u4e1d\u7ef8\uff0c\u4e1d\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Silk",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e8741408-7326-11ee-beb6-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,nudity,Embroidered,Silk,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "436e7507-7334-11ee-8835-9897ccfa9bed",
+        "time": 1698237880,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232621876122898",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698232600141888495",
+                "value": "Embroidered",
+                "localValue": "\u523a\u7ee3\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Embroidered",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "e6c38bd2-7326-11ee-9f4c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,nudity,Embroidered,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "4402ccef-7334-11ee-a531-9897ccfa9bed",
+        "time": 1698237881,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232621876122898",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,nudity,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "44c5f5db-7334-11ee-b01d-9897ccfa9bed",
+        "time": 1698237882,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600141790983",
+                "value": "Low-rise underwear",
+                "localValue": "\u4f4e\u8170\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Low-rise underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "0110d1df-7327-11ee-aeb1-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,Low-rise underwear,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "458cc84b-7334-11ee-9764-9897ccfa9bed",
+        "time": 1698237883,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600141900892",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "1girl,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "4620caea-7334-11ee-be94-9897ccfa9bed",
+        "time": 1698237884,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "1dfb2fca-7336-11ee-bd01-9897ccfa9bed",
+        "time": 1698238676,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698232600142229709",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014293941",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142945635",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142372380",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142496339",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "169823260014215484",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1698232600142687020",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698232600142894116",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142167788",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142107382",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698232600142179828",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            },
+            {
+                "id": "1698238676153805751",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),nudity,"
+    },
+    {
+        "id": "211f1505-7336-11ee-851c-9897ccfa9bed",
+        "time": 1698238681,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698238681353518752",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681353737319",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354828814",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354458122",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354517384",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354365719",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354447490",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354991108",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354711459",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354938045",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354930191",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "2abebaa7-7339-11ee-842e-9897ccfa9bed",
+        "time": 1698239986,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698238681353518752",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681353737319",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354828814",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354458122",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354517384",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354365719",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354447490",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354991108",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354711459",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354938045",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354930191",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            },
+            {
+                "id": "1698239986142573828",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),nudity,"
+    },
+    {
+        "id": "2cf9e5b6-7339-11ee-8fff-9897ccfa9bed",
+        "time": 1698239989,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698239986142573828",
+                "value": "nudity",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nudity",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "08442d9f-698f-11ee-9269-00155d033d15"
+            },
+            {
+                "id": "1698238681353518752",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681353737319",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354828814",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354458122",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354517384",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354365719",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354447490",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354991108",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354711459",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354938045",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354930191",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "nudity,hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
+    },
+    {
+        "id": "e129da41-733f-11ee-a2e5-9897ccfa9bed",
+        "time": 1698242869,
+        "name": "",
+        "tags": [
+            {
+                "id": "1698238681353518752",
+                "value": "hyper realism",
+                "localValue": "\u9ad8\u5ea6\u5199\u5b9e\u4e3b\u4e49",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realism",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "105b949c-730a-11ee-9a18-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681353737319",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "18ec948e-730a-11ee-ab5e-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354828814",
+                "value": "dramatic light",
+                "localValue": "\u620f\u5267\u6027\u7684\u5149\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dramatic light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1a1dc18b-730a-11ee-b60c-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354458122",
+                "value": "sharp",
+                "localValue": "\u5c16\u9510\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354517384",
+                "value": "HDR",
+                "localValue": "\u9ad8\u6570\u636e\u7387(High Data Rate)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "HDR",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "1d6a547b-730a-11ee-8d71-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354365719",
+                "value": "(masterpiece:1.2)",
+                "localValue": "(\u4ee3\u8868\u4f5c:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "masterpiece",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1698238681354447490",
+                "value": "(best quality:1.2)",
+                "localValue": "(\u6700\u4f73\u8d28\u91cf:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "best quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a64371bf-730c-11ee-a454-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354991108",
+                "value": "(extremely detailed:1.2)",
+                "localValue": "(\u6781\u5176\u8be6\u7ec6:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a3a5e399-730c-11ee-b108-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354711459",
+                "value": "(extremely detailed face)",
+                "localValue": "(\u6781\u5176\u7ec6\u81f4\u7684\u9762\u90e8)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "extremely detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "a8b5aa22-730c-11ee-a4fd-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354938045",
+                "value": "(photorealistic:1.2)",
+                "localValue": "(\u7167\u7247\u771f\u5b9e\u611f:1.2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "aae5d0b1-730c-11ee-b7f9-9897ccfa9bed"
+            },
+            {
+                "id": "1698238681354930191",
+                "value": "(ultra detailed)",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed"
+            }
+        ],
+        "prompt": "hyper realism,soft light,dramatic light,sharp,HDR,(masterpiece:1.2),(best quality:1.2),(extremely detailed:1.2),(extremely detailed face),(photorealistic:1.2),(ultra detailed),"
     }
 ]
