@@ -863,5 +863,725 @@
             }
         ],
         "prompt": "sports shoes"
+    },
+    {
+        "id": "371fd33e-780c-11ee-b2c0-a45cd7698fda",
+        "time": 1698770435,
+        "name": "\u5f69\u8679\u8272\u5934\u53d1",
+        "tags": [
+            {
+                "id": "1698768857246443689",
+                "value": "rainbow hair",
+                "localValue": "\u5f69\u8679\u8272\u5934\u53d1",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "rainbow hair",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "rainbow hair"
+    },
+    {
+        "id": "d73c9aae-7d27-11ee-9e07-9897ccfa9bed",
+        "time": 1699332056,
+        "name": "\u88f8\u4f53",
+        "tags": [
+            {
+                "id": "1699332014494464415",
+                "value": "nude",
+                "localValue": "\u88f8\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nude",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "nude"
+    },
+    {
+        "id": "25e5bdb6-7d30-11ee-bea3-9897ccfa9bed",
+        "time": 1699335624,
+        "name": "\u76f4\u7acb",
+        "tags": [
+            {
+                "id": "1699335580964789039",
+                "value": "standing stright",
+                "localValue": "\u76f4\u7acb",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "standing stright",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "standing stright"
+    },
+    {
+        "id": "8dd212a8-7d3f-11ee-a62b-9897ccfa9bed",
+        "time": 1699342241,
+        "name": "\u4e9a\u6d32",
+        "tags": [
+            {
+                "id": "169934221758422587",
+                "value": "asian",
+                "localValue": "\u4e9a\u6d32",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "asian",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "asian"
+    },
+    {
+        "id": "7866f791-7d42-11ee-aa48-9897ccfa9bed",
+        "time": 1699343493,
+        "name": "sex_toy",
+        "tags": [
+            {
+                "id": "169934341558748982",
+                "value": "sex_toy",
+                "localValue": "sex_toy",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sex_toy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sex_toy"
+    },
+    {
+        "id": "9d225941-7d42-11ee-9881-9897ccfa9bed",
+        "time": 1699343555,
+        "name": "funtoys",
+        "tags": [
+            {
+                "id": "1699343552412556057",
+                "value": "funtoys",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "funtoys",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "funtoys"
+    },
+    {
+        "id": "a733dd21-7d42-11ee-b87e-9897ccfa9bed",
+        "time": 1699343572,
+        "name": "\u5047\u9633\u5177",
+        "tags": [
+            {
+                "id": "1699343566719495320",
+                "value": "dildo",
+                "localValue": "\u5047\u9633\u5177",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dildo",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "dildo"
+    },
+    {
+        "id": "55647417-7d43-11ee-9e75-9897ccfa9bed",
+        "time": 1699343864,
+        "name": "\u624b\u6deb",
+        "tags": [
+            {
+                "id": "1699343856585524663",
+                "value": "masturbation",
+                "localValue": "\u624b\u6deb",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "masturbation",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "masturbation"
+    },
+    {
+        "id": "7cf11e2f-7d43-11ee-8a93-9897ccfa9bed",
+        "time": 1699343930,
+        "name": "\u6ca1\u6709\u88e4\u5b50",
+        "tags": [
+            {
+                "id": "1699343922899329952",
+                "value": "no pants",
+                "localValue": "\u6ca1\u6709\u88e4\u5b50",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "no pants",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "no pants"
+    },
+    {
+        "id": "7f14737c-7d43-11ee-9250-9897ccfa9bed",
+        "time": 1699343934,
+        "name": "\u6ca1\u6709\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1699343922900430675",
+                "value": "no panties",
+                "localValue": "\u6ca1\u6709\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "no panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "no panties"
+    },
+    {
+        "id": "a63aba92-7d43-11ee-982b-9897ccfa9bed",
+        "time": 1699344000,
+        "name": "\u732b\u663e\u793a",
+        "tags": [
+            {
+                "id": "1699343991884447671",
+                "value": "pussy shown",
+                "localValue": "\u732b\u663e\u793a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pussy shown",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "pussy shown"
+    },
+    {
+        "id": "bae01164-7d43-11ee-91ad-9897ccfa9bed",
+        "time": 1699344034,
+        "name": "\u5728\u5047\u9633\u5177\u4e0a\u55b7\u51fa",
+        "tags": [
+            {
+                "id": "1699344027283135114",
+                "value": "squirt on dildo",
+                "localValue": "\u5728\u5047\u9633\u5177\u4e0a\u55b7\u51fa",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "squirt on dildo",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "squirt on dildo"
+    },
+    {
+        "id": "d8523701-7d43-11ee-a5e7-9897ccfa9bed",
+        "time": 1699344084,
+        "name": "\u9634\u9053\u63d2\u5165",
+        "tags": [
+            {
+                "id": "1699344075572136926",
+                "value": "vaginal insertion",
+                "localValue": "\u9634\u9053\u63d2\u5165",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "vaginal insertion",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "vaginal insertion"
+    },
+    {
+        "id": "06723aa7-7d44-11ee-bec9-9897ccfa9bed",
+        "time": 1699344161,
+        "name": "\u524d\u706f",
+        "tags": [
+            {
+                "id": "1699344120819710321",
+                "value": "front light",
+                "localValue": "\u524d\u706f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "front light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "front light"
+    },
+    {
+        "id": "1ace054e-7d44-11ee-b875-9897ccfa9bed",
+        "time": 1699344195,
+        "name": "\u8d85\u903c\u771f\u7684",
+        "tags": [
+            {
+                "id": "1699344181571883167",
+                "value": "ultra photorealistic",
+                "localValue": "\u8d85\u903c\u771f\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "ultra photorealistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "ultra photorealistic"
+    },
+    {
+        "id": "4186e4b5-7d44-11ee-9f8c-9897ccfa9bed",
+        "time": 1699344260,
+        "name": "\u5149\u6ed1\u7684\u6c34\u5206\u76ae\u80a4",
+        "tags": [
+            {
+                "id": "1699344248572424497",
+                "value": "smooth moisture skin",
+                "localValue": "\u5149\u6ed1\u7684\u6c34\u5206\u76ae\u80a4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "smooth moisture skin",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "smooth moisture skin"
+    },
+    {
+        "id": "c74d6a27-7d44-11ee-96d1-9897ccfa9bed",
+        "time": 1699344485,
+        "name": "\u5047\u9633\u5177",
+        "tags": [
+            {
+                "id": "1699344479425115720",
+                "value": "dildo riding",
+                "localValue": "\u5047\u9633\u5177",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dildo riding",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "dildo riding"
+    },
+    {
+        "id": "9c39c6af-7d45-11ee-aa2a-9897ccfa9bed",
+        "time": 1699344842,
+        "name": "\u809b\u95e8\u73e0",
+        "tags": [
+            {
+                "id": "1699344836568919218",
+                "value": "anal beads",
+                "localValue": "\u809b\u95e8\u73e0",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "anal beads",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "anal beads"
+    },
+    {
+        "id": "d923f3f8-7d45-11ee-86c2-9897ccfa9bed",
+        "time": 1699344944,
+        "name": "\u907f\u5b55\u5957",
+        "tags": [
+            {
+                "id": "1699344937935630914",
+                "value": "condom",
+                "localValue": "\u907f\u5b55\u5957",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u907f\u5b55\u5957",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "condom"
+    },
+    {
+        "id": "37d74533-7d46-11ee-9c80-9897ccfa9bed",
+        "time": 1699345103,
+        "name": "\u4f7f\u7528\u7684\u907f\u5b55\u5957",
+        "tags": [
+            {
+                "id": "1699345094073115510",
+                "value": "used condom",
+                "localValue": "\u4f7f\u7528\u7684\u907f\u5b55\u5957",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "used condom",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "used condom"
+    },
+    {
+        "id": "b2e48176-8818-11ee-b562-9897ccfa9bed",
+        "time": 1700535015,
+        "name": "\u5927\u4e73\u623f",
+        "tags": [
+            {
+                "id": "1700534904480393908",
+                "value": "large breasts",
+                "localValue": "\u5927\u4e73\u623f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "large breasts",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "large breasts"
+    },
+    {
+        "id": "d930951f-8818-11ee-bd60-9897ccfa9bed",
+        "time": 1700535079,
+        "name": "\u88f8\u6811",
+        "tags": [
+            {
+                "id": "1700534904479165865",
+                "value": "bare tree",
+                "localValue": "\u88f8\u6811",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bare tree",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bare tree"
+    },
+    {
+        "id": "7eb779f5-881a-11ee-a830-9897ccfa9bed",
+        "time": 1700535787,
+        "name": "\u82d7\u6761",
+        "tags": [
+            {
+                "id": "1700535778932701666",
+                "value": "slim body",
+                "localValue": "\u82d7\u6761",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "slim body",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "slim body"
+    },
+    {
+        "id": "808bc4d6-881a-11ee-b6e1-9897ccfa9bed",
+        "time": 1700535790,
+        "name": "\u7626\u817f",
+        "tags": [
+            {
+                "id": "1700535778932280673",
+                "value": "slim legs",
+                "localValue": "\u7626\u817f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "slim legs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "slim legs"
     }
 ]
