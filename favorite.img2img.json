@@ -560,41 +560,6 @@
         "prompt": "(photorealistic:1.2)"
     },
     {
-        "id": "ac44eb7b-730c-11ee-bf94-9897ccfa9bed",
-        "time": 1698220876,
-        "name": "(\u8d85\u8be6\u7ec6)",
-        "tags": [
-            {
-                "id": "1698220806692259747",
-                "value": "(ultra detailed)",
-                "localValue": "(\u8d85\u8be6\u7ec6)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "ultra detailed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "(",
-                    "value": "ultra detailed",
-                    "right": ")"
-                },
-                "isFavorite": false
-            }
-        ],
-        "prompt": "(ultra detailed)"
-    },
-    {
         "id": "c2bf71d8-7313-11ee-a1b6-9897ccfa9bed",
         "time": 1698223920,
         "name": "\u4e0d\u5bf9\u79f0\u8fde\u8863\u88d9",
@@ -1583,5 +1548,763 @@
             }
         ],
         "prompt": "slim legs"
+    },
+    {
+        "id": "8420271e-881b-11ee-b7b2-9897ccfa9bed",
+        "time": 1700536225,
+        "name": "\u5168\u8eab\u524d\u7ebf",
+        "tags": [
+            {
+                "id": "1700536213971259132",
+                "value": "full-body front",
+                "localValue": "\u5168\u8eab\u524d\u7ebf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "full-body front",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "full-body front"
+    },
+    {
+        "id": "94017145-8824-11ee-9907-9897ccfa9bed",
+        "time": 1700540117,
+        "name": "\u9577\u9aee\u62ab\u80a9",
+        "tags": [
+            {
+                "id": "17005401063062129",
+                "value": "long hair shawl",
+                "localValue": "\u9577\u9aee\u62ab\u80a9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u9577\u9aee\u62ab\u80a9",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "long hair shawl"
+    },
+    {
+        "id": "b1d03c24-8825-11ee-a49d-9897ccfa9bed",
+        "time": 1700540597,
+        "name": "\u8d64\u811a / \u88f8\u8db3",
+        "tags": [
+            {
+                "id": "1700540587776528027",
+                "value": "barefoot",
+                "localValue": "\u8d64\u811a / \u88f8\u8db3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "barefoot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "barefoot"
+    },
+    {
+        "id": "64917c58-8826-11ee-9c5e-9897ccfa9bed",
+        "time": 1700540897,
+        "name": "\u732b",
+        "tags": [
+            {
+                "id": "1700540890046652616",
+                "value": "pussy",
+                "localValue": "\u732b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pussy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "pussy"
+    },
+    {
+        "id": "79a2ee1b-8826-11ee-9fb4-9897ccfa9bed",
+        "time": 1700540932,
+        "name": "\u732b\u6c41",
+        "tags": [
+            {
+                "id": "1700540925930171170",
+                "value": "pussy juice",
+                "localValue": "\u732b\u6c41",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pussy juice",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "pussy juice"
+    },
+    {
+        "id": "c73de09b-8826-11ee-a5d1-9897ccfa9bed",
+        "time": 1700541062,
+        "name": "\u8e72\u8457",
+        "tags": [
+            {
+                "id": "1700541056809380776",
+                "value": "squat",
+                "localValue": "\u8e72\u8457",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u8e72\u8457",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "squat"
+    },
+    {
+        "id": "5eda26d2-8827-11ee-9da2-9897ccfa9bed",
+        "time": 1700541317,
+        "name": "\u80f8\u7f69",
+        "tags": [
+            {
+                "id": "1700541307428435668",
+                "value": "bra",
+                "localValue": "\u80f8\u7f69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bra",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bra"
+    },
+    {
+        "id": "9c5ff7d7-8827-11ee-9b69-9897ccfa9bed",
+        "time": 1700541420,
+        "name": "\u8f7b\u5fae\u8d85\u8fc718\u5c81",
+        "tags": [
+            {
+                "id": "170054140099495622",
+                "value": "lightly over 18",
+                "localValue": "\u8f7b\u5fae\u8d85\u8fc718\u5c81",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lightly over 18",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lightly over 18"
+    },
+    {
+        "id": "f5b52649-8827-11ee-95f3-9897ccfa9bed",
+        "time": 1700541570,
+        "name": "\u66b4\u9732\u7684\u4e73\u623f",
+        "tags": [
+            {
+                "id": "1700541565119612504",
+                "value": "exposed breasts",
+                "localValue": "\u66b4\u9732\u7684\u4e73\u623f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "exposed breasts",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "exposed breasts"
+    },
+    {
+        "id": "01e25e11-8828-11ee-8185-9897ccfa9bed",
+        "time": 1700541590,
+        "name": "\u7167\u7247\u62cd\u6444",
+        "tags": [
+            {
+                "id": "1700541509678645596",
+                "value": "photoshoot",
+                "localValue": "\u7167\u7247\u62cd\u6444",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "photoshoot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "photoshoot"
+    },
+    {
+        "id": "04b5c95e-8828-11ee-91ac-9897ccfa9bed",
+        "time": 1700541595,
+        "name": "\u7535\u5f71\u4ecd\u7136",
+        "tags": [
+            {
+                "id": "1700541509678834344",
+                "value": "movie still",
+                "localValue": "\u7535\u5f71\u4ecd\u7136",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "movie still",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "movie still"
+    },
+    {
+        "id": "071bf414-8828-11ee-9daf-9897ccfa9bed",
+        "time": 1700541599,
+        "name": "\u7535\u5f71\u4ecd\u7136",
+        "tags": [
+            {
+                "id": "1700541509678760776",
+                "value": "film still",
+                "localValue": "\u7535\u5f71\u4ecd\u7136",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "film still",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "film still"
+    },
+    {
+        "id": "1c703d9f-8828-11ee-b96b-9897ccfa9bed",
+        "time": 1700541635,
+        "name": "(\u7b80\u5355\u7684\u8fde\u9501\u9879\u94fe\uff0c\u77f3\u540a\u5760\uff0c\u5bf9\u79f0)",
+        "tags": [
+            {
+                "id": "1700541509681985173",
+                "value": "(simple chain necklace, stone pendant, symmetrical)",
+                "localValue": "(\u7b80\u5355\u7684\u8fde\u9501\u9879\u94fe\uff0c\u77f3\u540a\u5760\uff0c\u5bf9\u79f0)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "simple chain necklace, stone pendant, symmetrical",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "simple chain necklace, stone pendant, symmetrical",
+                    "right": ")"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(simple chain necklace, stone pendant, symmetrical)"
+    },
+    {
+        "id": "205036dc-8828-11ee-bff8-9897ccfa9bed",
+        "time": 1700541641,
+        "name": "(\u7b80\u5355\u7684\u8033\u73af\uff0c\u5bf9\u79f0)",
+        "tags": [
+            {
+                "id": "1700541509681989013",
+                "value": "(simple earrings, symmetrical)",
+                "localValue": "(\u7b80\u5355\u7684\u8033\u73af\uff0c\u5bf9\u79f0)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "simple earrings, symmetrical",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "simple earrings, symmetrical",
+                    "right": ")"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(simple earrings, symmetrical)"
+    },
+    {
+        "id": "3127bd11-8828-11ee-a758-9897ccfa9bed",
+        "time": 1700541669,
+        "name": "\u8d85\u73b0\u5b9e",
+        "tags": [
+            {
+                "id": "1700541509684131134",
+                "value": "ultra realistic",
+                "localValue": "\u8d85\u73b0\u5b9e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "ultra realistic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "ultra realistic"
+    },
+    {
+        "id": "33cb3ea0-8828-11ee-a0e1-9897ccfa9bed",
+        "time": 1700541674,
+        "name": "\u7eb9\u7406\u7684\u76ae\u80a4",
+        "tags": [
+            {
+                "id": "1700541509684115908",
+                "value": "textured skin",
+                "localValue": "\u7eb9\u7406\u7684\u76ae\u80a4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "textured skin",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "textured skin"
+    },
+    {
+        "id": "3a707261-8828-11ee-bf7c-9897ccfa9bed",
+        "time": 1700541685,
+        "name": "\u96c4\u4f1f",
+        "tags": [
+            {
+                "id": "1700541509685900268",
+                "value": "majestic",
+                "localValue": "\u96c4\u4f1f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "majestic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "majestic"
+    },
+    {
+        "id": "3cfc4d89-8828-11ee-bc06-9897ccfa9bed",
+        "time": 1700541689,
+        "name": "\u5e7b\u60f3\u827a\u672f",
+        "tags": [
+            {
+                "id": "1700541509685969661",
+                "value": "fantasy art",
+                "localValue": "\u5e7b\u60f3\u827a\u672f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "fantasy art",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "fantasy art"
+    },
+    {
+        "id": "3fbb6409-8828-11ee-af20-9897ccfa9bed",
+        "time": 1700541694,
+        "name": "\u53f2\u8bd7",
+        "tags": [
+            {
+                "id": "1700541509685485607",
+                "value": "epic",
+                "localValue": "\u53f2\u8bd7",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "epic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "epic"
+    },
+    {
+        "id": "52579d75-882a-11ee-a837-9897ccfa9bed",
+        "time": 1700542584,
+        "name": "\u8349",
+        "tags": [
+            {
+                "id": "1700542502701745750",
+                "value": "grass",
+                "localValue": "\u8349",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "grass",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "grass"
+    },
+    {
+        "id": "a584e3b5-964f-11ee-b984-00e04c5662ad",
+        "time": 1702097931,
+        "name": "\u4e73\u6c9f",
+        "tags": [
+            {
+                "id": "1702097921271309961",
+                "value": "cleavage",
+                "localValue": "\u4e73\u6c9f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cleavage",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cleavage"
+    },
+    {
+        "id": "0682e16e-a146-11ee-8f6c-00e04c5662ad",
+        "time": 1703303262,
+        "name": "\u8eba\u5728\u5e8a\u4e0a",
+        "tags": [
+            {
+                "id": "1703303253739725376",
+                "value": "lying on bed",
+                "localValue": "\u8eba\u5728\u5e8a\u4e0a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lying on bed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lying on bed"
+    },
+    {
+        "id": "af5aa286-a2ed-11ee-b8ed-9897ccfa9bed",
+        "time": 1703485222,
+        "name": "\u5f71\u697c",
+        "tags": [
+            {
+                "id": "1703485217329198852",
+                "value": "photo studio",
+                "localValue": "\u5f71\u697c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "photo studio",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "photo studio"
+    },
+    {
+        "id": "18f6eab6-abd0-11ee-9570-00155da6e5a8",
+        "time": 1704462075,
+        "name": "\u7121\u6bdb",
+        "tags": [
+            {
+                "id": "1704462066873569751",
+                "value": "hairless",
+                "localValue": "\u7121\u6bdb",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u7121\u6bdb",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "hairless"
+    },
+    {
+        "id": "2a1dc3b7-b53a-11ee-a88e-00e04c5662ad",
+        "time": 1705497191,
+        "name": "(\u8d85\u8be6\u7ec6)",
+        "tags": [
+            {
+                "id": "1705497167025570259",
+                "value": "ultra detailed",
+                "localValue": "(\u8d85\u8be6\u7ec6)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "ultra detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "ultra detailed"
     }
 ]

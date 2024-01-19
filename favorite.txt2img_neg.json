@@ -1,1 +1,157 @@
-[]
+[
+    {
+        "id": "520ca9ba-a2cd-11ee-8546-9897ccfa9bed",
+        "time": 1703471322,
+        "name": "\u7578\u5f62",
+        "tags": [
+            {
+                "id": "1703471313950864852",
+                "value": "deformed",
+                "localValue": "\u7578\u5f62",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "deformed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "deformed"
+    },
+    {
+        "id": "5a89d1d2-a2cd-11ee-9efb-9897ccfa9bed",
+        "time": 1703471336,
+        "name": "cartoon",
+        "tags": [
+            {
+                "id": "1703471313951832548",
+                "value": "cartoon",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cartoon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cartoon"
+    },
+    {
+        "id": "6a656ba8-a2cd-11ee-a679-9897ccfa9bed",
+        "time": 1703471363,
+        "name": "\u52a8\u753b",
+        "tags": [
+            {
+                "id": "1703471313951162052",
+                "value": "animated",
+                "localValue": "\u52a8\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "animated"
+    },
+    {
+        "id": "707479ce-a2cd-11ee-9db8-9897ccfa9bed",
+        "time": 1703471373,
+        "name": "\u7f3a\u5c11\u56db\u80a2",
+        "tags": [
+            {
+                "id": "1703471313951639139",
+                "value": "missing limbs",
+                "localValue": "\u7f3a\u5c11\u56db\u80a2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "missing limbs"
+    },
+    {
+        "id": "af182937-b6d8-11ee-817d-00e04c5662ad",
+        "time": 1705675226,
+        "name": "\u6f2b\u753b",
+        "tags": [
+            {
+                "id": "1705675222646595295",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "comic"
+    }
+]
