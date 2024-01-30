@@ -2306,5 +2306,95 @@
             }
         ],
         "prompt": "ultra detailed"
+    },
+    {
+        "id": "57bbce3d-bc14-11ee-8ba0-00155d2e96aa",
+        "time": 1706250605,
+        "name": "strapondildo",
+        "tags": [
+            {
+                "id": "1706250593777548787",
+                "value": "StrapOnDildo",
+                "localValue": "strapondildo",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "StrapOnDildo",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "StrapOnDildo"
+    },
+    {
+        "id": "9e18bae2-bc68-11ee-8159-00155d2e96aa",
+        "time": 1706286801,
+        "name": "\u857e\u8fb9\u889c\u4e1d",
+        "tags": [
+            {
+                "id": "1706286714730393832",
+                "value": "lace-trimmed legwear",
+                "localValue": "\u857e\u8fb9\u889c\u4e1d",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lace-trimmed legwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lace-trimmed legwear"
+    },
+    {
+        "id": "a04930cc-bc68-11ee-b0d1-00155d2e96aa",
+        "time": 1706286804,
+        "name": "\u6750\u8d28\u589e\u5f3a",
+        "tags": [
+            {
+                "id": "1706286714730840986",
+                "value": "fine fabric emphasis",
+                "localValue": "\u6750\u8d28\u589e\u5f3a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "fine fabric emphasis",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "fine fabric emphasis"
     }
 ]

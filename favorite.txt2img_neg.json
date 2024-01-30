@@ -153,5 +153,35 @@
             }
         ],
         "prompt": "comic"
+    },
+    {
+        "id": "233bbf13-b829-11ee-bb70-00e04c5662ad",
+        "time": 1705819731,
+        "name": "EasyNegative",
+        "tags": [
+            {
+                "id": "170581972843669608",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "EasyNegative"
     }
 ]
