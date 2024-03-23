@@ -1,1442 +1,5 @@
 [
     {
-        "id": "5249895d-a478-11ee-8210-00155da6e5a8",
-        "time": 1703654717,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703654717783570596",
-                "value": "panorama",
-                "localValue": "\u5168\u666f",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "panorama",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "panorama,"
-    },
-    {
-        "id": "a58b6a7c-a47e-11ee-af8a-00155da6e5a8",
-        "time": 1703657434,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),"
-    },
-    {
-        "id": "a6056d57-a47e-11ee-9707-00155da6e5a8",
-        "time": 1703657435,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,"
-    },
-    {
-        "id": "a6711967-a47e-11ee-94a5-00155da6e5a8",
-        "time": 1703657436,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,"
-    },
-    {
-        "id": "a8214d5d-a47e-11ee-9d73-00155da6e5a8",
-        "time": 1703657438,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,"
-    },
-    {
-        "id": "a87e0437-a47e-11ee-b90a-00155da6e5a8",
-        "time": 1703657439,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,"
-    },
-    {
-        "id": "a8eccb96-a47e-11ee-82bc-00155da6e5a8",
-        "time": 1703657440,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,"
-    },
-    {
-        "id": "a932d3aa-a47e-11ee-8ba2-00155da6e5a8",
-        "time": 1703657440,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440560920638",
-                "value": "deformed",
-                "localValue": "\u7578\u5f62",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "deformed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,"
-    },
-    {
-        "id": "aa48a2b4-a47e-11ee-9265-00155da6e5a8",
-        "time": 1703657442,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440560920638",
-                "value": "deformed",
-                "localValue": "\u7578\u5f62",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "deformed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657442379678227",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,"
-    },
-    {
-        "id": "aabd0f8c-a47e-11ee-b246-00155da6e5a8",
-        "time": 1703657443,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440560920638",
-                "value": "deformed",
-                "localValue": "\u7578\u5f62",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "deformed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657442379678227",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657443140329812",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,"
-    },
-    {
-        "id": "ab210152-a47e-11ee-9d8a-00155da6e5a8",
-        "time": 1703657443,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440560920638",
-                "value": "deformed",
-                "localValue": "\u7578\u5f62",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "deformed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657442379678227",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657443140329812",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657443787991877",
-                "value": "skin spots",
-                "localValue": "\u76ae\u80a4\u6591\u70b9",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin spots",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,"
-    },
-    {
-        "id": "ab731b6f-a47e-11ee-840f-00155da6e5a8",
-        "time": 1703657444,
-        "name": "",
-        "tags": [
-            {
-                "id": "1703657434442603313",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435248229036",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657435938828265",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657438779290006",
-                "value": "missing limbs",
-                "localValue": "\u7f3a\u5c11\u56db\u80a2",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "missing limbs",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657439386131472",
-                "value": "animated",
-                "localValue": "\u52a8\u753b",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "animated",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440107514458",
-                "value": "cartoon",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cartoon",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657440560920638",
-                "value": "deformed",
-                "localValue": "\u7578\u5f62",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "deformed",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657442379678227",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657443140329812",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657443787991877",
-                "value": "skin spots",
-                "localValue": "\u76ae\u80a4\u6591\u70b9",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin spots",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1703657444323920245",
-                "value": "((grayscale))",
-                "localValue": "((\u7070\u5ea6))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "grayscale",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),"
-    },
-    {
         "id": "ac4bf9d4-a47e-11ee-b35a-00155da6e5a8",
         "time": 1703657445,
         "name": "",
@@ -16336,5 +14899,1726 @@
             }
         ],
         "prompt": "EasyNegative,comic,missing limbs,animated,deformed,((grayscale)),((monochrome)),(normal quality:2),(low quality:2),lowers,watermark,"
+    },
+    {
+        "id": "c6cfe888-bf41-11ee-affe-00155de3c5d4",
+        "time": 1706599972,
+        "name": "",
+        "tags": [
+            {
+                "id": "1707205195472838027",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "fdfe71fc-c4c2-11ee-b185-00155d9e1054",
+        "time": 1707205225,
+        "name": "",
+        "tags": [
+            {
+                "id": "1707205195472838027",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            },
+            {
+                "id": "1707205225796489321",
+                "value": "deformed",
+                "localValue": "\u7578\u5f62",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "deformed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,deformed,"
+    },
+    {
+        "id": "3ecdfc57-d532-11ee-aedd-00155d9e1054",
+        "time": 1709012227,
+        "name": "",
+        "tags": [
+            {
+                "id": "1709471639208159085",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "fdc03d09-d95f-11ee-acf3-9a97ccfa9bed",
+        "time": 1709471679,
+        "name": "",
+        "tags": [
+            {
+                "id": "1709471679147285036",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            },
+            {
+                "id": "1709471679148896502",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            },
+            {
+                "id": "1709471679148632816",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            },
+            {
+                "id": "1709471679148768601",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148889867",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148132611",
+                "value": "missing limbs",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148781367",
+                "value": "animated",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148360428",
+                "value": "cartoon",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cartoon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148713787",
+                "value": "deformed",
+                "localValue": "\u7578\u5f62",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "deformed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148465768",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148820848",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148752358",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148995283",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471679148828237",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471679148925079",
+                "value": "normal quality",
+                "localValue": "\u6b63\u5e38\u8d28\u91cf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148602249",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471679148995150",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1709471679149455566",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),"
+    },
+    {
+        "id": "49dbcff7-d960-11ee-a37c-9a97ccfa9bed",
+        "time": 1709471807,
+        "name": "",
+        "tags": [
+            {
+                "id": "1709471806877238358",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877842948",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            },
+            {
+                "id": "1709471806877200872",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877675463",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877392021",
+                "value": "missing limbs",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877478163",
+                "value": "animated",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "170947180687763178",
+                "value": "cartoon",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cartoon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877616849",
+                "value": "deformed",
+                "localValue": "\u7578\u5f62",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "deformed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "170947180687767882",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877709151",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877355023",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877327879",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471806877896456",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471806877386461",
+                "value": "normal quality",
+                "localValue": "\u6b63\u5e38\u8d28\u91cf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877714744",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471806877159681",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1709471806877102509",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),"
+    },
+    {
+        "id": "6c27c7dd-d960-11ee-8ca1-9a97ccfa9bed",
+        "time": 1709471864,
+        "name": "",
+        "tags": [
+            {
+                "id": "1709471864054187633",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "17094718640549533",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1709471864054313646",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1709471864055146194",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055287058",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471864055738120",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1709471864055455190",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055929867",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055491038",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055240981",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055550612",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1709471864055603625",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+    },
+    {
+        "id": "db0770ec-e910-11ee-a611-023b0a067e63",
+        "time": 1711196909,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "9f9d9046-e911-11ee-a111-023b0a067e63",
+        "time": 1711197239,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "233bbf13-b829-11ee-bb70-00e04c5662ad"
+            },
+            {
+                "id": "1711197239271827225",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,comic,"
+    },
+    {
+        "id": "9fe8ca30-e911-11ee-8411-023b0a067e63",
+        "time": 1711197240,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "233bbf13-b829-11ee-bb70-00e04c5662ad"
+            },
+            {
+                "id": "1711197239271827225",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197239880416257",
+                "value": "missing limbs",
+                "localValue": "\u7f3a\u5c11\u56db\u80a2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,comic,missing limbs,"
+    },
+    {
+        "id": "a0e2ac47-e911-11ee-b5de-023b0a067e63",
+        "time": 1711197241,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "233bbf13-b829-11ee-bb70-00e04c5662ad"
+            },
+            {
+                "id": "1711197239271827225",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197239880416257",
+                "value": "missing limbs",
+                "localValue": "\u7f3a\u5c11\u56db\u80a2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197241615845067",
+                "value": "animated",
+                "localValue": "\u52a8\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,comic,missing limbs,animated,"
+    },
+    {
+        "id": "a185a309-e911-11ee-8bca-023b0a067e63",
+        "time": 1711197242,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "233bbf13-b829-11ee-bb70-00e04c5662ad"
+            },
+            {
+                "id": "1711197239271827225",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197239880416257",
+                "value": "missing limbs",
+                "localValue": "\u7f3a\u5c11\u56db\u80a2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197241615845067",
+                "value": "animated",
+                "localValue": "\u52a8\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197242724717669",
+                "value": "cartoon",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cartoon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,"
+    },
+    {
+        "id": "a21d082b-e911-11ee-aee4-023b0a067e63",
+        "time": 1711197243,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711196909721415267",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "233bbf13-b829-11ee-bb70-00e04c5662ad"
+            },
+            {
+                "id": "1711197239271827225",
+                "value": "comic",
+                "localValue": "\u6f2b\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "comic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197239880416257",
+                "value": "missing limbs",
+                "localValue": "\u7f3a\u5c11\u56db\u80a2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "missing limbs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197241615845067",
+                "value": "animated",
+                "localValue": "\u52a8\u753b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animated",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "1711197242724717669",
+                "value": "cartoon",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cartoon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            },
+            {
+                "id": "171119724359033760",
+                "value": "deformed",
+                "localValue": "\u7578\u5f62",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "deformed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,"
     }
 ]

@@ -714,5 +714,65 @@
             }
         ],
         "prompt": "breaking through a mirror"
+    },
+    {
+        "id": "8fc84963-bf45-11ee-8358-00155de3c5d4",
+        "time": 1706601598,
+        "name": "\u5f9e\u5074\u9762",
+        "tags": [
+            {
+                "id": "1706601570553286629",
+                "value": "from the side",
+                "localValue": "\u5f9e\u5074\u9762",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u5f9e\u5074\u9762",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "from the side"
+    },
+    {
+        "id": "fdca81ad-c1eb-11ee-9398-00155d9e1054",
+        "time": 1706892981,
+        "name": "\u672a\u6765\u6d3e",
+        "tags": [
+            {
+                "id": "1706892968735384694",
+                "value": "futuristic",
+                "localValue": "\u672a\u6765\u6d3e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "futuristic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "futuristic"
     }
 ]

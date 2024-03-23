@@ -2396,5 +2396,33 @@
             }
         ],
         "prompt": "fine fabric emphasis"
+    },
+    {
+        "id": "e3a2f8d5-bf47-11ee-9725-00155de3c5d4",
+        "time": 1706602597,
+        "name": "\u6e7f\u6cf3\u8863",
+        "tags": [
+            {
+                "id": "1706602550098416444",
+                "value": "wet_swimsuit",
+                "localValue": "\u6e7f\u6cf3\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "wet_swimsuit",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "wet_swimsuit"
     }
 ]

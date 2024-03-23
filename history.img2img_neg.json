@@ -1,977 +1,5 @@
 [
     {
-        "id": "d568f1e4-9c06-11ee-be4b-00e04c5662ad",
-        "time": 1702726365,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702715167479483213",
-                "value": "EasyNegative",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "EasyNegative",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "ebf1c880-721d-11ee-90f0-9897ccfa9bed"
-            },
-            {
-                "id": "1702726361650145249",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362064921254",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362476194100",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362867118465",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726363219127056",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726363776190577",
-                "value": "skin spots",
-                "localValue": "\u76ae\u80a4\u6591\u70b9",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin spots",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "170272636418663232",
-                "value": "((grayscale))",
-                "localValue": "((\u7070\u5ea6))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "grayscale",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726364728377375",
-                "value": "((monochrome))",
-                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "monochrome",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726365822692400",
-                "value": "lowers",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "lowers",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),lowers,"
-    },
-    {
-        "id": "d5e5cd45-9c06-11ee-a74e-00e04c5662ad",
-        "time": 1702726366,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702715167479483213",
-                "value": "EasyNegative",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "EasyNegative",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": "ebf1c880-721d-11ee-90f0-9897ccfa9bed"
-            },
-            {
-                "id": "1702726361650145249",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362064921254",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362476194100",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726362867118465",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726363219127056",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726363776190577",
-                "value": "skin spots",
-                "localValue": "\u76ae\u80a4\u6591\u70b9",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin spots",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "170272636418663232",
-                "value": "((grayscale))",
-                "localValue": "((\u7070\u5ea6))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "grayscale",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726364728377375",
-                "value": "((monochrome))",
-                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "monochrome",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726365822692400",
-                "value": "lowers",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "lowers",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702726366620495615",
-                "value": "(normal quality:2)",
-                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 2,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "normal quality",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),"
-    },
-    {
-        "id": "d65be7bf-9c06-11ee-8fdc-00e04c5662ad",
-        "time": 1702726367,
-        "name": "",
-        "tags": [
-            {
-                "id": "170273863784125863",
-                "value": "EasyNegative",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "EasyNegative",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": true,
-                "embeddingName": "EasyNegative",
-                "classes": [
-                    "prompt-tag-value",
-                    "embedding-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842683042",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "(",
-                    "value": "mole",
-                    "right": ":1.5)"
-                }
-            },
-            {
-                "id": "1702738637842925363",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "170273863784218609",
-                "value": "age spot",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842592198",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842709284",
-                "value": "acnes",
-                "localValue": "\u75e4\u75ae",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "acnes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842543789",
-                "value": "skin spots",
-                "localValue": "\u76ae\u80a4\u6591\u70b9",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin spots",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842655214",
-                "value": "((grayscale))",
-                "localValue": "((\u7070\u5ea6))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "grayscale",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "((",
-                    "value": "grayscale",
-                    "right": "))"
-                }
-            },
-            {
-                "id": "1702738637842486041",
-                "value": "((monochrome))",
-                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 2,
-                "decWeight": 0,
-                "originalValue": "monochrome",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "((",
-                    "value": "monochrome",
-                    "right": "))"
-                }
-            },
-            {
-                "id": "1702738637842827482",
-                "value": "lowers",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "lowers",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1702738637842378160",
-                "value": "(normal quality:2)",
-                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 2,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "normal quality",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "(",
-                    "value": "normal quality",
-                    "right": ":2)"
-                }
-            },
-            {
-                "id": "1702738637842434261",
-                "value": "(low quality:2)",
-                "localValue": "(\u4f4e\u8d28\u91cf:2)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 2,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "low quality",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "splits": {
-                    "left": "(",
-                    "value": "low quality",
-                    "right": ":2)"
-                }
-            }
-        ],
-        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),"
-    },
-    {
-        "id": "d83658e4-9c8a-11ee-a122-00e04c5662ad",
-        "time": 1702783064,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702783064101922178",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),"
-    },
-    {
-        "id": "d8c02998-9c8a-11ee-879d-00e04c5662ad",
-        "time": 1702783065,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702783064101922178",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783065014515489",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,"
-    },
-    {
-        "id": "d90e29b0-9c8a-11ee-9eb5-00e04c5662ad",
-        "time": 1702783065,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702783064101922178",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783065014515489",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783065523628327",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,"
-    },
-    {
-        "id": "d9e27bbe-9c8a-11ee-a13f-00e04c5662ad",
-        "time": 1702783066,
-        "name": "",
-        "tags": [
-            {
-                "id": "1702783064101922178",
-                "value": "(mole:1.5)",
-                "localValue": "(\u75e3:1.5)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1.5,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "mole",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783065014515489",
-                "value": "watermark",
-                "localValue": "\u6c34\u5370",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "watermark",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783065523628327",
-                "value": "age spot",
-                "localValue": "\u8001\u4eba\u6591",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "age spot",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1702783066715533809",
-                "value": "skin blemishes",
-                "localValue": "\u76ae\u80a4\u7455\u75b5",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "skin blemishes",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "(mole:1.5),watermark,age spot,skin blemishes,"
-    },
-    {
         "id": "da552940-9c8a-11ee-a870-00e04c5662ad",
         "time": 1702783067,
         "name": "",
@@ -20624,5 +19652,1060 @@
             }
         ],
         "prompt": "EasyNegative,comic,missing limbs,animated,deformed,((grayscale)),((monochrome)),(normal quality:2),(low quality:2),lowers,watermark,"
+    },
+    {
+        "id": "1885fbe2-bf41-11ee-964b-00155de3c5d4",
+        "time": 1706599680,
+        "name": "",
+        "tags": [
+            {
+                "id": "1706600246178297545",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "7fcc91e1-bf47-11ee-aa19-00155de3c5d4",
+        "time": 1706602430,
+        "name": "",
+        "tags": [
+            {
+                "id": "1706600246178297545",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "embeddingName": "EasyNegative"
+            },
+            {
+                "id": "1706602430139829339",
+                "value": "cheerleader",
+                "localValue": "\u5566\u5566\u961f\u670d",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cheerleader",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,cheerleader,"
+    },
+    {
+        "id": "81500ce5-bf47-11ee-a8db-00155de3c5d4",
+        "time": 1706602432,
+        "name": "",
+        "tags": [
+            {
+                "id": "1706600246178297545",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "embeddingName": "EasyNegative"
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "5420ebb3-bf60-11ee-82a4-00155de3c5d4",
+        "time": 1706613094,
+        "name": "",
+        "tags": [
+            {
+                "id": "1706613093863496373",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            },
+            {
+                "id": "1706613093863529402",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            },
+            {
+                "id": "1706613093864876365",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1706613093864101852",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "170661309386420739",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864581739",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1706613093864552500",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1706613093864719275",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864349166",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864959572",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864849469",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "170661309386488179",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864902809",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+    },
+    {
+        "id": "56e526b0-bf60-11ee-be59-00155de3c5d4",
+        "time": 1706613099,
+        "name": "",
+        "tags": [
+            {
+                "id": "1706613093863529402",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isFavorite": "ebf1c880-721d-11ee-90f0-9897ccfa9bed"
+            },
+            {
+                "id": "1706613093864876365",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1706613093864101852",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "170661309386420739",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864581739",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1706613093864552500",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1706613093864719275",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864349166",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864959572",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864849469",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "170661309386488179",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1706613093864902809",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+    },
+    {
+        "id": "7408512d-c1a9-11ee-9f34-00155de3c5d4",
+        "time": 1706864403,
+        "name": "",
+        "tags": [
+            {
+                "id": "1709012448680176623",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "EasyNegative,"
+    },
+    {
+        "id": "dede8951-e911-11ee-b724-023b0a067e63",
+        "time": 1711197345,
+        "name": "",
+        "tags": [
+            {
+                "id": "1711197345365588070",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366211851",
+                "value": "(low quality:2)",
+                "localValue": "(\u4f4e\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "low quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "low quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1711197345366382204",
+                "value": "(normal quality:2)",
+                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "normal quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "normal quality",
+                    "right": ":2)"
+                }
+            },
+            {
+                "id": "1711197345366328119",
+                "value": "lowers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lowers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366637342",
+                "value": "((monochrome))",
+                "localValue": "((\u5355\u8272\u56fe\u7247 / \u5355\u8272))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "monochrome",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "monochrome",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1711197345366819493",
+                "value": "((grayscale))",
+                "localValue": "((\u7070\u5ea6))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "grayscale",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "grayscale",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1711197345366150811",
+                "value": "skin spots",
+                "localValue": "\u76ae\u80a4\u6591\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin spots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366986424",
+                "value": "acnes",
+                "localValue": "\u75e4\u75ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "acnes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366253819",
+                "value": "skin blemishes",
+                "localValue": "\u76ae\u80a4\u7455\u75b5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin blemishes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366456109",
+                "value": "age spot",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "age spot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366132197",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1711197345366971559",
+                "value": "(mole:1.5)",
+                "localValue": "(\u75e3:1.5)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.5,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "mole",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "mole",
+                    "right": ":1.5)"
+                }
+            }
+        ],
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
     }
 ]
