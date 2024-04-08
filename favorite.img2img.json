@@ -2424,5 +2424,35 @@
             }
         ],
         "prompt": "wet_swimsuit"
+    },
+    {
+        "id": "e52bfcf7-f08f-11ee-8ad2-00155d812692",
+        "time": 1712021131,
+        "name": "\u8def\u706f",
+        "tags": [
+            {
+                "id": "1712021120770408529",
+                "value": "street  light",
+                "localValue": "\u8def\u706f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "street  light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "street  light"
     }
 ]

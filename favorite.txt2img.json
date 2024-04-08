@@ -774,5 +774,483 @@
             }
         ],
         "prompt": "futuristic"
+    },
+    {
+        "id": "66670e58-e915-11ee-8981-023b0a067e63",
+        "time": 1711198861,
+        "name": "\u65b0\u6708",
+        "tags": [
+            {
+                "id": "1711198849798590640",
+                "value": "crescent moon",
+                "localValue": "\u65b0\u6708",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "crescent moon",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "crescent moon"
+    },
+    {
+        "id": "ffba16c5-e916-11ee-b1df-023b0a067e63",
+        "time": 1711199548,
+        "name": "\u6ce5\u5df4\u8def",
+        "tags": [
+            {
+                "id": "1711199542705550703",
+                "value": "muddy road",
+                "localValue": "\u6ce5\u5df4\u8def",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "\u6ce5\u5df4\u8def",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 0,
+                "toLocal": false,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "muddy road"
+    },
+    {
+        "id": "4db93bca-e919-11ee-b4cd-023b0a067e63",
+        "time": 1711200538,
+        "name": "\u9ed1\u6697\u7684\u68ee\u6797",
+        "tags": [
+            {
+                "id": "1711200524550556961",
+                "value": "dark forest",
+                "localValue": "\u9ed1\u6697\u7684\u68ee\u6797",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dark forest",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "dark forest"
+    },
+    {
+        "id": "5fb54f9c-e919-11ee-b762-023b0a067e63",
+        "time": 1711200568,
+        "name": "\u9ed1\u6697",
+        "tags": [
+            {
+                "id": "1711200561835419874",
+                "value": "darkness",
+                "localValue": "\u9ed1\u6697",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "darkness",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "darkness"
+    },
+    {
+        "id": "67717f30-e919-11ee-808d-023b0a067e63",
+        "time": 1711200581,
+        "name": "\u95ea\u4eae\u7684",
+        "tags": [
+            {
+                "id": "1711200561835739195",
+                "value": "shiny",
+                "localValue": "\u95ea\u4eae\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "shiny",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "shiny"
+    },
+    {
+        "id": "7be82f40-e919-11ee-a983-023b0a067e63",
+        "time": 1711200615,
+        "name": "\u590d\u6742\u7684\u690d\u7269\u7ec6\u8282",
+        "tags": [
+            {
+                "id": "171120060369580306",
+                "value": "intricate plant details",
+                "localValue": "\u590d\u6742\u7684\u690d\u7269\u7ec6\u8282",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "intricate plant details",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "intricate plant details"
+    },
+    {
+        "id": "d3478655-e919-11ee-b22b-023b0a067e63",
+        "time": 1711200762,
+        "name": "\u67d4\u5149",
+        "tags": [
+            {
+                "id": "1711200754430771055",
+                "value": "soft light",
+                "localValue": "\u67d4\u5149",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "soft light",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "soft light"
+    },
+    {
+        "id": "7d4e70d3-eff3-11ee-b401-00155d812692",
+        "time": 1711953955,
+        "name": "\u6d77\u6d6a",
+        "tags": [
+            {
+                "id": "171195393458546248",
+                "value": "wave",
+                "localValue": "\u6d77\u6d6a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "wave",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "wave"
+    },
+    {
+        "id": "402a42ff-eff4-11ee-95ec-00155d812692",
+        "time": 1711954282,
+        "name": "\u4e91",
+        "tags": [
+            {
+                "id": "1711954272563898951",
+                "value": "clouds",
+                "localValue": "\u4e91",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "clouds",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "clouds"
+    },
+    {
+        "id": "41d3e6be-eff4-11ee-8d62-00155d812692",
+        "time": 1711954285,
+        "name": "\u5728\u80cc\u666f\u4e2d\u7684\u5c9b\u5c7f",
+        "tags": [
+            {
+                "id": "1711954272563710419",
+                "value": "island in background",
+                "localValue": "\u5728\u80cc\u666f\u4e2d\u7684\u5c9b\u5c7f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "island in background",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "island in background"
+    },
+    {
+        "id": "946fe0e2-f0ca-11ee-9097-00155d812692",
+        "time": 1712046335,
+        "name": "\u7535\u5f71\u6444\u5f71",
+        "tags": [
+            {
+                "id": "1712046290524324442",
+                "value": "film photography",
+                "localValue": "\u7535\u5f71\u6444\u5f71",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "film photography",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "film photography"
+    },
+    {
+        "id": "97d4eeb2-f0ca-11ee-9d26-00155d812692",
+        "time": 1712046341,
+        "name": "\u52a8\u6001\u7ec4\u6210",
+        "tags": [
+            {
+                "id": "1712046290525907289",
+                "value": "dynamic composition",
+                "localValue": "\u52a8\u6001\u7ec4\u6210",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "dynamic composition",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "dynamic composition"
+    },
+    {
+        "id": "9ada22d6-f0ca-11ee-a932-00155d812692",
+        "time": 1712046346,
+        "name": "\u5c16\u9510\u7684\u7126\u70b9",
+        "tags": [
+            {
+                "id": "1712046290526406573",
+                "value": "sharp focus",
+                "localValue": "\u5c16\u9510\u7684\u7126\u70b9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp focus",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sharp focus"
+    },
+    {
+        "id": "9eaaa031-f0ca-11ee-af16-00155d812692",
+        "time": 1712046353,
+        "name": "\u786c\u9634\u5f71",
+        "tags": [
+            {
+                "id": "1712046290526977798",
+                "value": "hard shadows",
+                "localValue": "\u786c\u9634\u5f71",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hard shadows",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "hard shadows"
+    },
+    {
+        "id": "a1ec3c02-f0ca-11ee-a144-00155d812692",
+        "time": 1712046358,
+        "name": "\u7535\u5f71\u7167\u660e",
+        "tags": [
+            {
+                "id": "1712046290526100326",
+                "value": "cinematic lighting",
+                "localValue": "\u7535\u5f71\u7167\u660e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cinematic lighting",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cinematic lighting"
+    },
+    {
+        "id": "a9e13781-f0ca-11ee-9939-00155d812692",
+        "time": 1712046371,
+        "name": "\u5ba1\u7f8e\u7684",
+        "tags": [
+            {
+                "id": "1712046290526634292",
+                "value": "aesthetic",
+                "localValue": "\u5ba1\u7f8e\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "aesthetic",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "aesthetic"
     }
 ]
