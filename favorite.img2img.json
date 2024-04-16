@@ -2454,5 +2454,125 @@
             }
         ],
         "prompt": "street  light"
+    },
+    {
+        "id": "99f94b8d-fbdd-11ee-9f8e-00e04c5662ad",
+        "time": 1713263968,
+        "name": "\u8fc7\u5ea6\u73b0\u5b9e\u4e14\u9ad8\u5ea6\u8be6\u7ec6",
+        "tags": [
+            {
+                "id": "1713263953102434845",
+                "value": "hyper realistic and highly detailed",
+                "localValue": "\u8fc7\u5ea6\u73b0\u5b9e\u4e14\u9ad8\u5ea6\u8be6\u7ec6",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hyper realistic and highly detailed",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "hyper realistic and highly detailed"
+    },
+    {
+        "id": "7895625d-fbe2-11ee-8602-00e04c5662ad",
+        "time": 1713266059,
+        "name": "\u957f\u889c",
+        "tags": [
+            {
+                "id": "1713265940382463888",
+                "value": "stockings ",
+                "localValue": "\u957f\u889c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "stockings ",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "stockings "
+    },
+    {
+        "id": "0f689a97-fbe3-11ee-8247-00e04c5662ad",
+        "time": 1713266312,
+        "name": "\u857e\u4e1d\u4e09\u7ea7",
+        "tags": [
+            {
+                "id": "1713266250807125064",
+                "value": "lace-trim",
+                "localValue": "\u857e\u4e1d\u4e09\u7ea7",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lace-trim",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lace-trim"
+    },
+    {
+        "id": "562b22d8-fbe4-11ee-a1f0-00e04c5662ad",
+        "time": 1713266861,
+        "name": "\u9ad8\u62ac\u817f",
+        "tags": [
+            {
+                "id": "171326684908577006",
+                "value": "thigh-highs",
+                "localValue": "\u9ad8\u62ac\u817f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "thigh-highs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "thigh-highs"
     }
 ]

@@ -1,94 +1,5 @@
 [
     {
-        "id": "f30e45f7-abe3-11ee-9755-00e04c5662ad",
-        "time": 1704470601,
-        "name": "",
-        "tags": [
-            {
-                "id": "1704470599358851934",
-                "value": "EasyNegative",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "EasyNegative",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": true,
-                "embeddingName": "EasyNegative",
-                "classes": [
-                    "prompt-tag-value",
-                    "embedding-tag"
-                ]
-            },
-            {
-                "id": "1704470600617123724",
-                "value": "(low quality:2)",
-                "localValue": "(\u4f4e\u8d28\u91cf:2)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 2,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "low quality",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1704470601125896488",
-                "value": "(normal quality:2)",
-                "localValue": "(\u6b63\u5e38\u8d28\u91cf:2)",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 2,
-                "incWeight": 1,
-                "decWeight": 0,
-                "originalValue": "normal quality",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            },
-            {
-                "id": "1704470601755287635",
-                "value": "lowers",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "lowers",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value",
-                    "neg-tag"
-                ]
-            }
-        ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,"
-    },
-    {
         "id": "f3b98d3f-abe3-11ee-943f-00e04c5662ad",
         "time": 1704470603,
         "name": "",
@@ -15406,5 +15317,34 @@
             }
         ],
         "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,lowers,(low quality:2),"
+    },
+    {
+        "id": "8c308190-fbf7-11ee-ab77-00e04c5662ad",
+        "time": 1713275112,
+        "name": "",
+        "tags": [
+            {
+                "id": "1713275112121556871",
+                "value": "EasyNegative",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "EasyNegative",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
+                "classes": [
+                    "prompt-tag-value",
+                    "embedding-tag"
+                ]
+            }
+        ],
+        "prompt": "EasyNegative,"
     }
 ]
