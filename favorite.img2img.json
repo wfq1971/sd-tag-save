@@ -2574,5 +2574,785 @@
             }
         ],
         "prompt": "thigh-highs"
+    },
+    {
+        "id": "f07cc1b8-fc67-11ee-b5ec-00e04c5662ad",
+        "time": 1713323384,
+        "name": "\u76ae\u80a4",
+        "tags": [
+            {
+                "id": "1713323374663259188",
+                "value": "skin",
+                "localValue": "\u76ae\u80a4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "skin",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "skin"
+    },
+    {
+        "id": "1af14164-fc86-11ee-83c2-00e04c5662ad",
+        "time": 1713336340,
+        "name": "\u4e73\u623f\u5728\u4e00\u8d77",
+        "tags": [
+            {
+                "id": "1713336303240592903",
+                "value": "breasts together",
+                "localValue": "\u4e73\u623f\u5728\u4e00\u8d77",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "breasts together",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "breasts together"
+    },
+    {
+        "id": "896a7334-fc9f-11ee-9cff-00e04c5662ad",
+        "time": 1713347263,
+        "name": "\u82b1\u8fb9\u5185\u8863",
+        "tags": [
+            {
+                "id": "1713347243305624401",
+                "value": "lace underwear",
+                "localValue": "\u82b1\u8fb9\u5185\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lace underwear",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lace underwear"
+    },
+    {
+        "id": "3c021cd7-fca0-11ee-9e0f-00e04c5662ad",
+        "time": 1713347562,
+        "name": "\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713347553412292750",
+                "value": "panties",
+                "localValue": "\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "panties"
+    },
+    {
+        "id": "968644b8-fca0-11ee-88f4-00e04c5662ad",
+        "time": 1713347714,
+        "name": "\u5e26\u6709\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713347704804301670",
+                "value": "bear panties",
+                "localValue": "\u5e26\u6709\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bear panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bear panties"
+    },
+    {
+        "id": "500d1b7f-fca1-11ee-b621-00e04c5662ad",
+        "time": 1713348025,
+        "name": "\u65b9\u683c\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713348018657290960",
+                "value": "checkered panties",
+                "localValue": "\u65b9\u683c\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "checkered panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "checkered panties"
+    },
+    {
+        "id": "b6c6ceb7-fca2-11ee-820b-00e04c5662ad",
+        "time": 1713348627,
+        "name": "\u5370\u82b1\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713348318899924624",
+                "value": "print panties",
+                "localValue": "\u5370\u82b1\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "print panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "print panties"
+    },
+    {
+        "id": "8f6df28d-fca3-11ee-bb5e-00e04c5662ad",
+        "time": 1713348991,
+        "name": "\u65e0\u88c6\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713348982570443177",
+                "value": "crotchless panties",
+                "localValue": "\u65e0\u88c6\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "crotchless panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "crotchless panties"
+    },
+    {
+        "id": "19c5dd34-fca4-11ee-b91b-00e04c5662ad",
+        "time": 1713349223,
+        "name": "\u65e0\u80a9\u5e26\u5e95\u90e8",
+        "tags": [
+            {
+                "id": "1713349184524941477",
+                "value": "strapless bottom",
+                "localValue": "\u65e0\u80a9\u5e26\u5e95\u90e8",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "strapless bottom",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "strapless bottom"
+    },
+    {
+        "id": "35a1e375-fca9-11ee-99bf-00e04c5662ad",
+        "time": 1713351417,
+        "name": "\u633a\u76f4\u7684\u5934\u53d1",
+        "tags": [
+            {
+                "id": "1713351405522478137",
+                "value": "stright hair",
+                "localValue": "\u633a\u76f4\u7684\u5934\u53d1",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "stright hair",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "stright hair"
+    },
+    {
+        "id": "22b39ef7-fcb1-11ee-89ee-00e04c5662ad",
+        "time": 1713354821,
+        "name": "\u8774\u8776\u7ed3\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713354806384248877",
+                "value": "bow panties",
+                "localValue": "\u8774\u8776\u7ed3\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bow panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bow panties"
+    },
+    {
+        "id": "718fb6a6-fcb1-11ee-9eeb-00e04c5662ad",
+        "time": 1713354953,
+        "name": "\u7ef3\u5b50\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713354947295311027",
+                "value": "string panties",
+                "localValue": "\u7ef3\u5b50\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "string panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "string panties"
+    },
+    {
+        "id": "3b157d8d-fcb4-11ee-a231-00e04c5662ad",
+        "time": 1713356151,
+        "name": "\u4fa7\u7cfb\u5e26\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713356147087150599",
+                "value": "side-tie panties",
+                "localValue": "\u4fa7\u7cfb\u5e26\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "side-tie panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "side-tie panties"
+    },
+    {
+        "id": "5d638468-fcc1-11ee-97f6-00e04c5662ad",
+        "time": 1713361792,
+        "name": "\u8936\u8fb9\u5185\u88e4",
+        "tags": [
+            {
+                "id": "171336171612615447",
+                "value": "frilled panties",
+                "localValue": "\u8936\u8fb9\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "frilled panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "frilled panties"
+    },
+    {
+        "id": "0e93f2c0-fcc3-11ee-9079-00e04c5662ad",
+        "time": 1713362518,
+        "name": "\u4e00\u79cd\u5973\u6027\u5c55\u793a\u81c0\u90e8\u7684\u59ff\u52bf",
+        "tags": [
+            {
+                "id": "1713362514171173699",
+                "value": "trefoil",
+                "localValue": "\u4e00\u79cd\u5973\u6027\u5c55\u793a\u81c0\u90e8\u7684\u59ff\u52bf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "trefoil",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "trefoil"
+    },
+    {
+        "id": "2eba06fa-fcc3-11ee-8909-00e04c5662ad",
+        "time": 1713362572,
+        "name": "\u5c04\u7cbe\u6ef4\u5728\u5185\u88e4\u4e0a",
+        "tags": [
+            {
+                "id": "1713362567385903168",
+                "value": "cumdrip onto panties",
+                "localValue": "\u5c04\u7cbe\u6ef4\u5728\u5185\u88e4\u4e0a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cumdrip onto panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cumdrip onto panties"
+    },
+    {
+        "id": "957cf9b4-fcd0-11ee-8be8-00e04c5662ad",
+        "time": 1713368328,
+        "name": "\u5c04\u5728\u5185\u88e4\u91cc",
+        "tags": [
+            {
+                "id": "1713368323273337952",
+                "value": "cum in panties",
+                "localValue": "\u5c04\u5728\u5185\u88e4\u91cc",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cum in panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cum in panties"
+    },
+    {
+        "id": "d5ee4cd6-fcd0-11ee-8cbf-00e04c5662ad",
+        "time": 1713368436,
+        "name": "\u6e7f\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713368429611286197",
+                "value": "wet panties",
+                "localValue": "\u6e7f\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "wet panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "wet panties"
+    },
+    {
+        "id": "d65d0c9b-fcd4-11ee-a7a2-00e04c5662ad",
+        "time": 1713370155,
+        "name": "\u9ad8\u817f\u5185\u88e4",
+        "tags": [
+            {
+                "id": "1713370148835575855",
+                "value": "highleg panties",
+                "localValue": "\u9ad8\u817f\u5185\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "highleg panties",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "highleg panties"
+    },
+    {
+        "id": "9ec26ea6-fcd6-11ee-9c80-00e04c5662ad",
+        "time": 1713370921,
+        "name": "\u73cd\u73e0\u4e01\u5b57\u88e4",
+        "tags": [
+            {
+                "id": "1713370893748422259",
+                "value": "pearl thong",
+                "localValue": "\u73cd\u73e0\u4e01\u5b57\u88e4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pearl thong",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "pearl thong"
+    },
+    {
+        "id": "fc5f9db0-fcd6-11ee-89b0-00e04c5662ad",
+        "time": 1713371078,
+        "name": "\u76ae\u5e26",
+        "tags": [
+            {
+                "id": "1713371049984139708",
+                "value": "thong",
+                "localValue": "\u76ae\u5e26",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "thong",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "thong"
+    },
+    {
+        "id": "a182e761-fce1-11ee-a172-00e04c5662ad",
+        "time": 1713375650,
+        "name": "\u60c5\u8da3\u7761\u8863",
+        "tags": [
+            {
+                "id": "1713375573696824734",
+                "value": "babydoll",
+                "localValue": "\u60c5\u8da3\u7761\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "babydoll",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "babydoll"
+    },
+    {
+        "id": "bb41c81d-fce1-11ee-ae39-00e04c5662ad",
+        "time": 1713375693,
+        "name": "\u8fde\u4f53\u9ed1\u4e1d",
+        "tags": [
+            {
+                "id": "1713375690833462665",
+                "value": "black bodystocking",
+                "localValue": "\u8fde\u4f53\u9ed1\u4e1d",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "black bodystocking",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "black bodystocking"
+    },
+    {
+        "id": "30f56d58-fce3-11ee-94f8-00e04c5662ad",
+        "time": 1713376320,
+        "name": "\u675f\u8170(\u9a6c\u7532)",
+        "tags": [
+            {
+                "id": "1713376238210871994",
+                "value": "corset",
+                "localValue": "\u675f\u8170(\u9a6c\u7532)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "corset",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "corset"
+    },
+    {
+        "id": "7dfd9914-fce5-11ee-92f5-00e04c5662ad",
+        "time": 1713377308,
+        "name": "\u89e6\u89d2",
+        "tags": [
+            {
+                "id": "1713377303465172043",
+                "value": "tentacles",
+                "localValue": "\u89e6\u89d2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "tentacles",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "tentacles"
+    },
+    {
+        "id": "0f7010d5-fe4c-11ee-8356-00e04c5662ad",
+        "time": 1713531312,
+        "name": "\u7816\u5730\u677f",
+        "tags": [
+            {
+                "id": "1713531300394969312",
+                "value": "brick floor",
+                "localValue": "\u7816\u5730\u677f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "brick floor",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "brick floor"
     }
 ]

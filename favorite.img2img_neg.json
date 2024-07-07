@@ -426,5 +426,36 @@
             }
         ],
         "prompt": "(mole:1.5)"
+    },
+    {
+        "id": "8b1994cf-fc98-11ee-8949-00e04c5662ad",
+        "time": 1713344259,
+        "name": "\u66f4\u591a\u811a\u8dbe",
+        "tags": [
+            {
+                "id": "1713344247496554949",
+                "value": "more toes",
+                "localValue": "\u66f4\u591a\u811a\u8dbe",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "more toes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "more toes"
     }
 ]

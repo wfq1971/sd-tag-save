@@ -1252,5 +1252,125 @@
             }
         ],
         "prompt": "aesthetic"
+    },
+    {
+        "id": "174ca928-fd56-11ee-85f5-00e04c5662ad",
+        "time": 1713425669,
+        "name": "\u5168\u8eab\u8096\u50cf",
+        "tags": [
+            {
+                "id": "1713425584998940649",
+                "value": "full body portrait",
+                "localValue": "\u5168\u8eab\u8096\u50cf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "full body portrait",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "full body portrait"
+    },
+    {
+        "id": "e4b9b204-3c60-11ef-9190-9a97ccfa9bed",
+        "time": 1720357232,
+        "name": "\u5168\u8eab\u7167",
+        "tags": [
+            {
+                "id": "1720357073194689875",
+                "value": "Full body shot",
+                "localValue": "\u5168\u8eab\u7167",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Full body shot",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Full body shot"
+    },
+    {
+        "id": "fd57b089-3c60-11ef-b151-9a97ccfa9bed",
+        "time": 1720357273,
+        "name": "\u4ece\u5934\u5230\u811a",
+        "tags": [
+            {
+                "id": "1720357264088759914",
+                "value": "from head to toes",
+                "localValue": "\u4ece\u5934\u5230\u811a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "from head to toes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "from head to toes"
+    },
+    {
+        "id": "ff0a88ed-3c60-11ef-a7b3-9a97ccfa9bed",
+        "time": 1720357276,
+        "name": "\u5168\u8eab\u7167\u7247",
+        "tags": [
+            {
+                "id": "1720357264089130073",
+                "value": "full body photo",
+                "localValue": "\u5168\u8eab\u7167\u7247",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "full body photo",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "full body photo"
     }
 ]
