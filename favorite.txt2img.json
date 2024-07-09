@@ -1372,5 +1372,185 @@
             }
         ],
         "prompt": "full body photo"
+    },
+    {
+        "id": "ffc9f30e-3c63-11ef-99d0-9a97ccfa9bed",
+        "time": 1720358566,
+        "name": "\u8863\u670d\u91cc\u7684\u767d\u8272\u7d27\u8eab\u8863",
+        "tags": [
+            {
+                "id": "1720358551816921792",
+                "value": "white leotard under clothes",
+                "localValue": "\u8863\u670d\u91cc\u7684\u767d\u8272\u7d27\u8eab\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "white leotard under clothes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "white leotard under clothes"
+    },
+    {
+        "id": "59e7ad49-3c64-11ef-8769-9a97ccfa9bed",
+        "time": 1720358717,
+        "name": "\u67d4\u548c\u7684\u8f89\u5149\u7167\u660e",
+        "tags": [
+            {
+                "id": "172035870476879836",
+                "value": "Soft glow illumination",
+                "localValue": "\u67d4\u548c\u7684\u8f89\u5149\u7167\u660e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Soft glow illumination",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Soft glow illumination"
+    },
+    {
+        "id": "23fcbe53-3c95-11ef-883e-9a97ccfa9bed",
+        "time": 1720379672,
+        "name": "\u7279\u5199",
+        "tags": [
+            {
+                "id": "1720379420912285216",
+                "value": "closeup",
+                "localValue": "\u7279\u5199",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "closeup",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "closeup"
+    },
+    {
+        "id": "a879ff4a-3dee-11ef-bfa0-f2a0adf5777d",
+        "time": 1720528070,
+        "name": "\u9ed1\u8272\u9774\u5b50",
+        "tags": [
+            {
+                "id": "1720528010692123547",
+                "value": "black boots",
+                "localValue": "\u9ed1\u8272\u9774\u5b50",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "black boots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "black boots"
+    },
+    {
+        "id": "40b34f93-3def-11ef-ac26-f2a0adf5777d",
+        "time": 1720528326,
+        "name": "\u539a\u5e95\u9774",
+        "tags": [
+            {
+                "id": "1720528320878261616",
+                "value": "platform boots",
+                "localValue": "\u539a\u5e95\u9774",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "platform boots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "platform boots"
+    },
+    {
+        "id": "1327003a-3df0-11ef-a3fe-f2a0adf5777d",
+        "time": 1720528679,
+        "name": "\u5e73\u5e95\u978b",
+        "tags": [
+            {
+                "id": "1720528668334586072",
+                "value": "flat ankle boots",
+                "localValue": "\u5e73\u5e95\u978b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "flat ankle boots",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "flat ankle boots"
     }
 ]

@@ -46,7 +46,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,"
+        "prompt": "EasyNegative,watermark,",
+        "is_favorite": false
     },
     {
         "id": "9e3dda6d-b6d8-11ee-847c-00e04c5662ad",
@@ -115,7 +116,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,"
+        "prompt": "EasyNegative,watermark,skin blemishes,",
+        "is_favorite": false
     },
     {
         "id": "9e8bb19d-b6d8-11ee-a64f-00e04c5662ad",
@@ -204,7 +206,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,",
+        "is_favorite": false
     },
     {
         "id": "9f9a35bc-b6d8-11ee-804a-00e04c5662ad",
@@ -333,7 +336,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,",
+        "is_favorite": false
     },
     {
         "id": "9fcb30c2-b6d8-11ee-8de4-00e04c5662ad",
@@ -462,7 +466,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,",
+        "is_favorite": false
     },
     {
         "id": "9ff8f780-b6d8-11ee-ae30-00e04c5662ad",
@@ -611,7 +616,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),",
+        "is_favorite": false
     },
     {
         "id": "a043efbd-b6d8-11ee-9dcf-00e04c5662ad",
@@ -780,7 +786,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),",
+        "is_favorite": false
     },
     {
         "id": "a0f1615c-b6d8-11ee-b35d-00e04c5662ad",
@@ -969,7 +976,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,",
+        "is_favorite": false
     },
     {
         "id": "a163f946-b6d8-11ee-91a4-00e04c5662ad",
@@ -1178,7 +1186,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,",
+        "is_favorite": false
     },
     {
         "id": "a1e29f25-b6d8-11ee-b2ff-00e04c5662ad",
@@ -1407,7 +1416,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),",
+        "is_favorite": false
     },
     {
         "id": "a27c6e20-b6d8-11ee-82f9-00e04c5662ad",
@@ -1656,7 +1666,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "a3be25fb-b6d8-11ee-9efd-00e04c5662ad",
@@ -1887,7 +1898,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "a8b9334d-b6d8-11ee-a03d-00e04c5662ad",
@@ -2138,7 +2150,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),cartoon,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),cartoon,",
+        "is_favorite": false
     },
     {
         "id": "ad29255f-b6d8-11ee-80ed-00e04c5662ad",
@@ -2411,7 +2424,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),cartoon,comic,"
+        "prompt": "EasyNegative,watermark,skin blemishes,age spot,acnes,skin spots,((grayscale)),((monochrome)),lowers,(normal quality:2),(low quality:2),cartoon,comic,",
+        "is_favorite": false
     },
     {
         "id": "02c6727d-b751-11ee-b2f4-00e04c5662ad",
@@ -2440,7 +2454,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "3410f697-b826-11ee-b984-00e04c5662ad",
@@ -2468,7 +2483,8 @@
                 ]
             }
         ],
-        "prompt": "comic,"
+        "prompt": "comic,",
+        "is_favorite": false
     },
     {
         "id": "36a7792f-b826-11ee-b83b-00e04c5662ad",
@@ -2497,7 +2513,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "62d64edd-b82a-11ee-b814-00e04c5662ad",
@@ -2547,7 +2564,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,Multiple people,"
+        "prompt": "EasyNegative,Multiple people,",
+        "is_favorite": false
     },
     {
         "id": "6818bec7-b82a-11ee-bd54-00e04c5662ad",
@@ -2617,7 +2635,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,Multiple people,deformed,"
+        "prompt": "EasyNegative,Multiple people,deformed,",
+        "is_favorite": false
     },
     {
         "id": "6a643555-b82a-11ee-a9bd-00e04c5662ad",
@@ -2707,7 +2726,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),"
+        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "6b4ef770-b82a-11ee-bbab-00e04c5662ad",
@@ -2817,7 +2837,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),"
+        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),",
+        "is_favorite": false
     },
     {
         "id": "6bc586bc-b82a-11ee-ba78-00e04c5662ad",
@@ -2947,7 +2968,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),normal quality,"
+        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),normal quality,",
+        "is_favorite": false
     },
     {
         "id": "6c2de57d-b82a-11ee-be3e-00e04c5662ad",
@@ -3120,7 +3142,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),normal quality,lowers,"
+        "prompt": "EasyNegative,Multiple people,deformed,(low quality:2),((monochrome)),normal quality,lowers,",
+        "is_favorite": false
     },
     {
         "id": "00b22e7f-ba6f-11ee-9ee2-00e04c5662ad",
@@ -3149,7 +3172,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "fe834275-ba8d-11ee-ba35-00e04c5662ad",
@@ -3198,7 +3222,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),"
+        "prompt": "EasyNegative,((monochrome)),",
+        "is_favorite": false
     },
     {
         "id": "ff759fab-ba8d-11ee-a339-00e04c5662ad",
@@ -3267,7 +3292,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),",
+        "is_favorite": false
     },
     {
         "id": "d2ead09b-ba8e-11ee-b5f4-00e04c5662ad",
@@ -3356,7 +3382,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,",
+        "is_favorite": false
     },
     {
         "id": "d73c5f5e-ba8e-11ee-ab1d-00e04c5662ad",
@@ -3467,7 +3494,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,",
+        "is_favorite": false
     },
     {
         "id": "1bc4ac9d-ba92-11ee-b50e-00e04c5662ad",
@@ -3601,7 +3629,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),",
+        "is_favorite": false
     },
     {
         "id": "1c27b434-ba92-11ee-8290-00e04c5662ad",
@@ -3755,7 +3784,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "1dd9be2b-ba92-11ee-8093-00e04c5662ad",
@@ -3929,7 +3959,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,",
+        "is_favorite": false
     },
     {
         "id": "1e1826a7-ba92-11ee-87fc-00e04c5662ad",
@@ -4123,7 +4154,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,",
+        "is_favorite": false
     },
     {
         "id": "1e555f42-ba92-11ee-add0-00e04c5662ad",
@@ -4337,7 +4369,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,",
+        "is_favorite": false
     },
     {
         "id": "1e8b177a-ba92-11ee-af93-00e04c5662ad",
@@ -4571,7 +4604,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,",
+        "is_favorite": false
     },
     {
         "id": "44e4d4cb-ba94-11ee-bc5f-00e04c5662ad",
@@ -4830,7 +4864,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,xx_focus,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,xx_focus,",
+        "is_favorite": false
     },
     {
         "id": "4bc6069d-ba94-11ee-9ce4-00e04c5662ad",
@@ -5101,7 +5136,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,",
+        "is_favorite": false
     },
     {
         "id": "52b4da5f-bb54-11ee-8df7-00155d2e96aa",
@@ -5130,7 +5166,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "f41abd0d-bc04-11ee-97be-00155d2e96aa",
@@ -5447,7 +5484,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "fb767c6d-bc04-11ee-9068-00155d2e96aa",
@@ -5476,7 +5514,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "bf22831f-bc18-11ee-9947-00155d2e96aa",
@@ -6936,7 +6975,8 @@
                 }
             }
         ],
-        "prompt": "(worst quality:2),(low quality:2),(normal quality:2),lowres,normal quality,((monochrome)),((grayscale)),bad anatomy,out of view,cut off,ugly,deformed,mutated,((young)),EasyNegative,paintings,sketches,(worst quality:2),(low quality:2),(normal quality:2),lowres,normal quality,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,extra fingers,fewer fingers,\"(ugly eyes, deformed iris, deformed pupils, fused lips and teeth:1.2),(un-detailed skin, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.2),close up,cropped,out of frame,worst quality,low quality,jpeg artifacts,ugly,duplicate,extra fingers,mutated hands,poorly drawn hands,poorly drawn face,mutation,deformed,blurry,dehydrated,bad anatomy,bad proportions,extra limbs,cloned face,disfigured,gross proportions,malformed limbs,missing arms,missing legs,extra arms,extra legs,fused fingers,too many fingers,long neck,(badhandv4),"
+        "prompt": "(worst quality:2),(low quality:2),(normal quality:2),lowres,normal quality,((monochrome)),((grayscale)),bad anatomy,out of view,cut off,ugly,deformed,mutated,((young)),EasyNegative,paintings,sketches,(worst quality:2),(low quality:2),(normal quality:2),lowres,normal quality,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,extra fingers,fewer fingers,\"(ugly eyes, deformed iris, deformed pupils, fused lips and teeth:1.2),(un-detailed skin, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.2),close up,cropped,out of frame,worst quality,low quality,jpeg artifacts,ugly,duplicate,extra fingers,mutated hands,poorly drawn hands,poorly drawn face,mutation,deformed,blurry,dehydrated,bad anatomy,bad proportions,extra limbs,cloned face,disfigured,gross proportions,malformed limbs,missing arms,missing legs,extra arms,extra legs,fused fingers,too many fingers,long neck,(badhandv4),",
+        "is_favorite": false
     },
     {
         "id": "3e6e26ca-bc30-11ee-ba17-00155d2e96aa",
@@ -6972,7 +7012,8 @@
                 }
             }
         ],
-        "prompt": "(GS-DeMasculate-neg:1.1),"
+        "prompt": "(GS-DeMasculate-neg:1.1),",
+        "is_favorite": false
     },
     {
         "id": "64d4b11c-bc30-11ee-9eb2-00155d2e96aa",
@@ -7009,7 +7050,8 @@
                 "isFavorite": false
             }
         ],
-        "prompt": ""
+        "prompt": "",
+        "is_favorite": false
     },
     {
         "id": "f3a168ed-bc30-11ee-9c5a-00155d2e96aa",
@@ -7067,7 +7109,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "264a69f7-bc31-11ee-8970-00155d2e96aa",
@@ -7125,7 +7168,8 @@
                 ]
             }
         ],
-        "prompt": "(GS-DeMasculate-neg:1.1),EasyNegative,"
+        "prompt": "(GS-DeMasculate-neg:1.1),EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "3087756e-bc31-11ee-a4a8-00155d2e96aa",
@@ -7183,7 +7227,8 @@
                 ]
             }
         ],
-        "prompt": "GS-DeMasculate-neg,EasyNegative,"
+        "prompt": "GS-DeMasculate-neg,EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "3bd797d0-bc31-11ee-8591-00155d2e96aa",
@@ -7220,7 +7265,8 @@
                 "isFavorite": false
             }
         ],
-        "prompt": "GS-DeMasculate-neg,"
+        "prompt": "GS-DeMasculate-neg,",
+        "is_favorite": false
     },
     {
         "id": "46335358-bc31-11ee-9167-00155d2e96aa",
@@ -7257,7 +7303,8 @@
                 "isFavorite": false
             }
         ],
-        "prompt": ""
+        "prompt": "",
+        "is_favorite": false
     },
     {
         "id": "c3c3a2f7-bc50-11ee-9abd-00155d2e96aa",
@@ -7528,7 +7575,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,deformed,((grayscale)),((monochrome)),(normal quality:2),(low quality:2),lowers,watermark,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,deformed,((grayscale)),((monochrome)),(normal quality:2),(low quality:2),lowers,watermark,",
+        "is_favorite": false
     },
     {
         "id": "c6cfe888-bf41-11ee-affe-00155de3c5d4",
@@ -7557,7 +7605,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "fdfe71fc-c4c2-11ee-b185-00155d9e1054",
@@ -7606,7 +7655,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,deformed,"
+        "prompt": "EasyNegative,deformed,",
+        "is_favorite": false
     },
     {
         "id": "3ecdfc57-d532-11ee-aedd-00155d9e1054",
@@ -7637,7 +7687,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "fdc03d09-d95f-11ee-acf3-9a97ccfa9bed",
@@ -8064,7 +8115,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),"
+        "prompt": "EasyNegative,EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "49dbcff7-d960-11ee-a37c-9a97ccfa9bed",
@@ -8472,7 +8524,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),"
+        "prompt": "EasyNegative,(mole:1.5),watermark,age spot,missing limbs,animated,cartoon,deformed,skin blemishes,acnes,skin spots,((grayscale)),((monochrome)),normal quality,lowers,(normal quality:2),(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "6c27c7dd-d960-11ee-8ca1-9a97ccfa9bed",
@@ -8770,7 +8823,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "db0770ec-e910-11ee-a611-023b0a067e63",
@@ -8799,7 +8853,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "9f9d9046-e911-11ee-a111-023b0a067e63",
@@ -8849,7 +8904,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,comic,"
+        "prompt": "EasyNegative,comic,",
+        "is_favorite": false
     },
     {
         "id": "9fe8ca30-e911-11ee-8411-023b0a067e63",
@@ -8919,7 +8975,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,"
+        "prompt": "EasyNegative,comic,missing limbs,",
+        "is_favorite": false
     },
     {
         "id": "a0e2ac47-e911-11ee-b5de-023b0a067e63",
@@ -9009,7 +9066,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,",
+        "is_favorite": false
     },
     {
         "id": "a185a309-e911-11ee-8bca-023b0a067e63",
@@ -9119,7 +9177,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,",
+        "is_favorite": false
     },
     {
         "id": "a21d082b-e911-11ee-aee4-023b0a067e63",
@@ -9249,7 +9308,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,",
+        "is_favorite": false
     },
     {
         "id": "2bb83f95-e918-11ee-9a24-023b0a067e63",
@@ -9406,7 +9466,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,front view,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,front view,",
+        "is_favorite": false
     },
     {
         "id": "2df08f4f-e918-11ee-8240-023b0a067e63",
@@ -9564,7 +9625,8 @@
                 "isFavorite": "520ca9ba-a2cd-11ee-8546-9897ccfa9bed"
             }
         ],
-        "prompt": "EasyNegative,front view,comic,missing limbs,animated,cartoon,deformed,"
+        "prompt": "EasyNegative,front view,comic,missing limbs,animated,cartoon,deformed,",
+        "is_favorite": false
     },
     {
         "id": "2eea45d5-e918-11ee-b902-023b0a067e63",
@@ -9699,7 +9761,8 @@
                 "isFavorite": "520ca9ba-a2cd-11ee-8546-9897ccfa9bed"
             }
         ],
-        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,"
+        "prompt": "EasyNegative,comic,missing limbs,animated,cartoon,deformed,",
+        "is_favorite": false
     },
     {
         "id": "b6b05d1a-eff3-11ee-8599-00155d812692",
@@ -9728,7 +9791,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "b9a102d9-eff3-11ee-af04-00155d812692",
@@ -9777,7 +9841,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,cartoon,"
+        "prompt": "EasyNegative,cartoon,",
+        "is_favorite": false
     },
     {
         "id": "ba3d9960-eff3-11ee-ab84-00155d812692",
@@ -9846,7 +9911,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,cartoon,animated,"
+        "prompt": "EasyNegative,cartoon,animated,",
+        "is_favorite": false
     },
     {
         "id": "29487295-eff5-11ee-ba82-00155d812692",
@@ -9935,7 +10001,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,cartoon,animated,deformed,"
+        "prompt": "EasyNegative,cartoon,animated,deformed,",
+        "is_favorite": false
     },
     {
         "id": "2edf5625-eff5-11ee-b05d-00155d812692",
@@ -10045,7 +10112,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,"
+        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,",
+        "is_favorite": false
     },
     {
         "id": "2f4883dd-eff5-11ee-a3ab-00155d812692",
@@ -10175,7 +10243,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,lowers,"
+        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,lowers,",
+        "is_favorite": false
     },
     {
         "id": "30a44453-eff5-11ee-a8a8-00155d812692",
@@ -10342,7 +10411,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,lowers,(low quality:2),"
+        "prompt": "EasyNegative,cartoon,animated,deformed,normal quality,lowers,(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "8c308190-fbf7-11ee-ab77-00e04c5662ad",
@@ -10371,7 +10441,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "257f219a-fc07-11ee-8c02-00e04c5662ad",
@@ -10669,7 +10740,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "1a4a461e-fc09-11ee-a52d-00e04c5662ad",
@@ -10698,7 +10770,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "6a5478b3-fc0a-11ee-bdbd-00e04c5662ad",
@@ -10994,7 +11067,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "25233651-fc0f-11ee-bf85-00e04c5662ad",
@@ -11023,7 +11097,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "2be97021-fc0f-11ee-b5f5-00e04c5662ad",
@@ -11072,7 +11147,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),"
+        "prompt": "EasyNegative,(low quality:2),",
+        "is_favorite": false
     },
     {
         "id": "2c5b899b-fc0f-11ee-8f90-00e04c5662ad",
@@ -11141,7 +11217,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),",
+        "is_favorite": false
     },
     {
         "id": "2cec9ca4-fc0f-11ee-98cc-00e04c5662ad",
@@ -11230,7 +11307,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,",
+        "is_favorite": false
     },
     {
         "id": "2d94d20c-fc0f-11ee-a888-00e04c5662ad",
@@ -11339,7 +11417,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),",
+        "is_favorite": false
     },
     {
         "id": "2de1861a-fc0f-11ee-a84a-00e04c5662ad",
@@ -11468,7 +11547,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),",
+        "is_favorite": false
     },
     {
         "id": "2e2bee9d-fc0f-11ee-bcd8-00e04c5662ad",
@@ -11617,7 +11697,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,",
+        "is_favorite": false
     },
     {
         "id": "2e642e16-fc0f-11ee-a990-00e04c5662ad",
@@ -11786,7 +11867,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,",
+        "is_favorite": false
     },
     {
         "id": "2ef7db3b-fc0f-11ee-b4d4-00e04c5662ad",
@@ -11995,7 +12077,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,",
+        "is_favorite": false
     },
     {
         "id": "2f017812-fc0f-11ee-82df-00e04c5662ad",
@@ -12204,7 +12287,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,",
+        "is_favorite": false
     },
     {
         "id": "2f359922-fc0f-11ee-9197-00e04c5662ad",
@@ -12433,7 +12517,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,",
+        "is_favorite": false
     },
     {
         "id": "2f474c35-fc0f-11ee-93ac-00e04c5662ad",
@@ -12731,7 +12816,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "804608ac-fc12-11ee-90e0-00e04c5662ad",
@@ -12760,7 +12846,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "b37365ee-fc12-11ee-b0e9-00e04c5662ad",
@@ -13057,7 +13144,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "ca3f83d6-fc13-11ee-a5bf-00e04c5662ad",
@@ -13087,7 +13175,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "742a7f15-fdf3-11ee-aab8-00e04c5662ad",
@@ -13117,7 +13206,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "easynegaative,"
+        "prompt": "easynegaative,",
+        "is_favorite": false
     },
     {
         "id": "46331027-fdf5-11ee-a6e3-00e04c5662ad",
@@ -13167,7 +13257,8 @@
                 ]
             }
         ],
-        "prompt": "easynegaative,medium_shot,"
+        "prompt": "easynegaative,medium_shot,",
+        "is_favorite": false
     },
     {
         "id": "478db29b-fdf5-11ee-84dc-00e04c5662ad",
@@ -13197,7 +13288,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "easynegaative,"
+        "prompt": "easynegaative,",
+        "is_favorite": false
     },
     {
         "id": "0deb034b-fdfc-11ee-93e3-00e04c5662ad",
@@ -13578,7 +13670,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,ugly,bad quality,error,blurry,blurred,"
+        "prompt": "EasyNegative,((monochrome)),((grayscale)),watermark,face,(normal quality:2),(low quality:2),skin spots,acnes,skin blemishes,age spot,ugly,bad quality,error,blurry,blurred,",
+        "is_favorite": false
     },
     {
         "id": "1784fe20-fdfc-11ee-8270-00e04c5662ad",
@@ -13608,7 +13701,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "easynegaative,"
+        "prompt": "easynegaative,",
+        "is_favorite": false
     },
     {
         "id": "748f1a61-fe15-11ee-95e6-00e04c5662ad",
@@ -13659,7 +13753,8 @@
                 ]
             }
         ],
-        "prompt": "easynegaative,EasyNegative,"
+        "prompt": "easynegaative,EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "7552d6b6-fe15-11ee-9674-00e04c5662ad",
@@ -13687,7 +13782,8 @@
                 ]
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "9c505a1b-3161-11ef-a5f0-00155dbadb85",
@@ -13985,7 +14081,8 @@
                 }
             }
         ],
-        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),"
+        "prompt": "EasyNegative,(low quality:2),(normal quality:2),lowers,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,watermark,(mole:1.5),",
+        "is_favorite": false
     },
     {
         "id": "4be22b9b-32c0-11ef-bc78-00e04c5662ad",
@@ -14015,7 +14112,8 @@
                 "toLocal": true
             }
         ],
-        "prompt": "easy,"
+        "prompt": "easy,",
+        "is_favorite": false
     },
     {
         "id": "4c79188a-32c0-11ef-9417-00e04c5662ad",
@@ -14066,7 +14164,8 @@
                 ]
             }
         ],
-        "prompt": "easy,EasyNegative,"
+        "prompt": "easy,EasyNegative,",
+        "is_favorite": false
     },
     {
         "id": "4d99bdd6-32c0-11ef-8ae0-00e04c5662ad",
@@ -14074,7 +14173,7 @@
         "name": "",
         "tags": [
             {
-                "id": "1719311635395625940",
+                "id": "1720527756513387298",
                 "value": "EasyNegative",
                 "localValue": "",
                 "disabled": false,
@@ -14087,16 +14186,16 @@
                 "loraExists": false,
                 "isLyco": false,
                 "lycoExists": false,
-                "isEmbedding": true,
-                "embeddingName": "EasyNegative",
+                "isEmbedding": false,
                 "classes": [
                     "prompt-tag-value",
-                    "embedding-tag"
+                    "neg-tag"
                 ],
                 "isEnglish": 1,
                 "toLocal": true
             }
         ],
-        "prompt": "EasyNegative,"
+        "prompt": "EasyNegative,",
+        "is_favorite": false
     }
 ]

@@ -3354,5 +3354,305 @@
             }
         ],
         "prompt": "brick floor"
+    },
+    {
+        "id": "8c388058-3c65-11ef-9566-9a97ccfa9bed",
+        "time": 1720359231,
+        "name": "\u7279\u5199",
+        "tags": [
+            {
+                "id": "1720359225150892469",
+                "value": "closeup",
+                "localValue": "\u7279\u5199",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "closeup",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "closeup"
+    },
+    {
+        "id": "cfba6a5d-3c65-11ef-b7db-9a97ccfa9bed",
+        "time": 1720359344,
+        "name": "\u86c7\u5973",
+        "tags": [
+            {
+                "id": "1720359295719898267",
+                "value": "snake girl",
+                "localValue": "\u86c7\u5973",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "snake girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "snake girl"
+    },
+    {
+        "id": "e562eaea-3c65-11ef-8e24-9a97ccfa9bed",
+        "time": 1720359380,
+        "name": "UHD",
+        "tags": [
+            {
+                "id": "1720359370602461513",
+                "value": "UHD",
+                "localValue": "UHD",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "UHD",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "UHD"
+    },
+    {
+        "id": "9db87d37-3c97-11ef-bcea-9a97ccfa9bed",
+        "time": 1720380735,
+        "name": "\u52a8\u7269\u8033\u6735\u7ed2\u6bdb",
+        "tags": [
+            {
+                "id": "1720380726093594580",
+                "value": "animal ear fluff",
+                "localValue": "\u52a8\u7269\u8033\u6735\u7ed2\u6bdb",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animal ear fluff",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "animal ear fluff"
+    },
+    {
+        "id": "9ff3a66c-3c97-11ef-acee-9a97ccfa9bed",
+        "time": 1720380739,
+        "name": "\u517d\u8033",
+        "tags": [
+            {
+                "id": "1720380726093795464",
+                "value": "animal ears",
+                "localValue": "\u517d\u8033",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animal ears",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "animal ears"
+    },
+    {
+        "id": "7f5ad108-3c98-11ef-a866-9a97ccfa9bed",
+        "time": 1720381114,
+        "name": "\u8de8\u6027\u522b\u5973\u6027",
+        "tags": [
+            {
+                "id": "1720380892646100717",
+                "value": "Transgender Female",
+                "localValue": "\u8de8\u6027\u522b\u5973\u6027",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Transgender Female",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Transgender Female"
+    },
+    {
+        "id": "fbc63237-3c98-11ef-b168-9a97ccfa9bed",
+        "time": 1720381322,
+        "name": "\u77ed\u6b3e\u80cc\u5fc3",
+        "tags": [
+            {
+                "id": "1720381120450807446",
+                "value": "short crop tank top",
+                "localValue": "\u77ed\u6b3e\u80cc\u5fc3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "short crop tank top",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "short crop tank top"
+    },
+    {
+        "id": "ff024a96-3c98-11ef-8c0d-9a97ccfa9bed",
+        "time": 1720381328,
+        "name": "\u80f8\u90e8\u4e0b",
+        "tags": [
+            {
+                "id": "1720381120450468546",
+                "value": "underboob",
+                "localValue": "\u80f8\u90e8\u4e0b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "underboob",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "underboob"
+    },
+    {
+        "id": "6aec3b46-3cf1-11ef-b73f-9a97ccfa9bed",
+        "time": 1720419305,
+        "name": "\u6781\u5176\u4e13\u4e1a\u7684\u62cd\u6444\u6280\u672f",
+        "tags": [
+            {
+                "id": "1720419295530433839",
+                "value": "extremely professional shooting techniques",
+                "localValue": "\u6781\u5176\u4e13\u4e1a\u7684\u62cd\u6444\u6280\u672f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "extremely professional shooting techniques",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "extremely professional shooting techniques"
+    },
+    {
+        "id": "70447efd-3cf1-11ef-a980-9a97ccfa9bed",
+        "time": 1720419314,
+        "name": "\u4e13\u4e1a\u7167\u660e",
+        "tags": [
+            {
+                "id": "1720419295530468445",
+                "value": "professiona lighting",
+                "localValue": "\u4e13\u4e1a\u7167\u660e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "professiona lighting",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "professiona lighting"
     }
 ]
