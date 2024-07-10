@@ -155,12 +155,389 @@
         "prompt": "comic"
     },
     {
-        "id": "233bbf13-b829-11ee-bb70-00e04c5662ad",
-        "time": 1705819731,
+        "id": "f31742b0-3dff-11ef-905f-00155ddbc496",
+        "time": 1720535497,
+        "name": "\u7d20\u63cf / \u624b\u753b\u8349\u7a3f",
+        "tags": [
+            {
+                "id": "1720535405161813305",
+                "value": "sketch",
+                "localValue": "\u7d20\u63cf / \u624b\u753b\u8349\u7a3f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sketch",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sketch"
+    },
+    {
+        "id": "fa4693ed-3dff-11ef-a709-00155ddbc496",
+        "time": 1720535509,
+        "name": "\u6587\u5b57",
+        "tags": [
+            {
+                "id": "1720535405160138696",
+                "value": "text",
+                "localValue": "\u6587\u5b57",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "text",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "text"
+    },
+    {
+        "id": "fcb8cdba-3dff-11ef-aa2d-00155ddbc496",
+        "time": 1720535513,
+        "name": "\u7b7e\u540d",
+        "tags": [
+            {
+                "id": "1720535405160395642",
+                "value": "signature",
+                "localValue": "\u7b7e\u540d",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "signature",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "signature"
+    },
+    {
+        "id": "008369fd-3e00-11ef-8ac6-00155ddbc496",
+        "time": 1720535520,
+        "name": "\u9519\u8bef\u7684\u89e3\u5256",
+        "tags": [
+            {
+                "id": "1720535405162437748",
+                "value": "bad anatomy",
+                "localValue": "\u9519\u8bef\u7684\u89e3\u5256",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bad anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bad anatomy"
+    },
+    {
+        "id": "045e93c0-3e00-11ef-9f5f-00155ddbc496",
+        "time": 1720535526,
+        "name": "\u591a\u4f59\u7684\u817f",
+        "tags": [
+            {
+                "id": "1720535405163549075",
+                "value": "extra legs",
+                "localValue": "\u591a\u4f59\u7684\u817f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "extra legs",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "extra legs"
+    },
+    {
+        "id": "091c9b71-3e00-11ef-b69e-00155ddbc496",
+        "time": 1720535534,
+        "name": "\u5546\u6807",
+        "tags": [
+            {
+                "id": "1720535405162979983",
+                "value": "logo",
+                "localValue": "\u5546\u6807",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "logo",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "logo"
+    },
+    {
+        "id": "0d2f742d-3e00-11ef-a344-00155ddbc496",
+        "time": 1720535541,
+        "name": "\u878d\u5408\u7684\u624b\u6307",
+        "tags": [
+            {
+                "id": "1720535405161173348",
+                "value": "fused fingers",
+                "localValue": "\u878d\u5408\u7684\u624b\u6307",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "fused fingers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "fused fingers"
+    },
+    {
+        "id": "0f4cd56a-3e00-11ef-9764-00155ddbc496",
+        "time": 1720535544,
+        "name": "\u592a\u591a\u624b\u6307",
+        "tags": [
+            {
+                "id": "1720535405161541618",
+                "value": "too many fingers",
+                "localValue": "\u592a\u591a\u624b\u6307",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "too many fingers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "too many fingers"
+    },
+    {
+        "id": "113a700c-3e00-11ef-9064-00155ddbc496",
+        "time": 1720535548,
+        "name": "extra fingers",
+        "tags": [
+            {
+                "id": "1720535405161421030",
+                "value": "extra fingers",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "extra fingers",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "extra fingers"
+    },
+    {
+        "id": "1328cb83-3e00-11ef-bbd8-00155ddbc496",
+        "time": 1720535551,
+        "name": "((extra hands))",
+        "tags": [
+            {
+                "id": "1720535405161477830",
+                "value": "((extra hands))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "extra hands",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "extra hands",
+                    "right": "))"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "((extra hands))"
+    },
+    {
+        "id": "24cc437f-3e00-11ef-925b-00155ddbc496",
+        "time": 1720535581,
+        "name": "\u65e0\u804a\u7684",
+        "tags": [
+            {
+                "id": "1720535405160841256",
+                "value": "boring",
+                "localValue": "\u65e0\u804a\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "boring",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "boring"
+    },
+    {
+        "id": "277b8175-3e00-11ef-a89d-00155ddbc496",
+        "time": 1720535585,
+        "name": "\u6c34\u5370",
+        "tags": [
+            {
+                "id": "172053540516055906",
+                "value": "watermark",
+                "localValue": "\u6c34\u5370",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "watermark",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "watermark"
+    },
+    {
+        "id": "2ec051ae-3e00-11ef-8585-00155ddbc496",
+        "time": 1720535597,
         "name": "EasyNegative",
         "tags": [
             {
-                "id": "170581972843669608",
+                "id": "1720535593681944479",
                 "value": "EasyNegative",
                 "localValue": "",
                 "disabled": false,
@@ -183,5 +560,160 @@
             }
         ],
         "prompt": "EasyNegative"
+    },
+    {
+        "id": "8e231125-3e04-11ef-b672-00155ddbc496",
+        "time": 1720537475,
+        "name": "\u574f\u7684\u624b\u81c2",
+        "tags": [
+            {
+                "id": "1720536813439534753",
+                "value": "bad arm",
+                "localValue": "\u574f\u7684\u624b\u81c2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bad arm",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bad arm"
+    },
+    {
+        "id": "9192384a-3e04-11ef-805d-00155ddbc496",
+        "time": 1720537481,
+        "name": "\u626d\u66f2\u7684\u624b\u81c2",
+        "tags": [
+            {
+                "id": "1720536813439660414",
+                "value": "distorted arm",
+                "localValue": "\u626d\u66f2\u7684\u624b\u81c2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "distorted arm",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "distorted arm"
+    },
+    {
+        "id": "97ee6f79-3e04-11ef-b288-00155ddbc496",
+        "time": 1720537492,
+        "name": "\u878d\u5408\u6b66\u5668",
+        "tags": [
+            {
+                "id": "1720536813439934689",
+                "value": "fused arms",
+                "localValue": "\u878d\u5408\u6b66\u5668",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "fused arms",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "fused arms"
+    },
+    {
+        "id": "a0a7f807-3e04-11ef-af88-00155ddbc496",
+        "time": 1720537506,
+        "name": "\u5206\u79bb\u7684\u624b\u81c2",
+        "tags": [
+            {
+                "id": "1720536813439524058",
+                "value": "detached arm",
+                "localValue": "\u5206\u79bb\u7684\u624b\u81c2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detached arm",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "detached arm"
+    },
+    {
+        "id": "aa65d760-3e04-11ef-8411-00155ddbc496",
+        "time": 1720537523,
+        "name": "\u5012\u7684\u624b",
+        "tags": [
+            {
+                "id": "17205368134394837",
+                "value": "inverted hand",
+                "localValue": "\u5012\u7684\u624b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "inverted hand",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "inverted hand"
     }
 ]
