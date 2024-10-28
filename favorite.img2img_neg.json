@@ -457,5 +457,160 @@
             }
         ],
         "prompt": "more toes"
+    },
+    {
+        "id": "a25e1ac3-3e88-11ef-bea6-00155ddbc496",
+        "time": 1720594203,
+        "name": "\u6db2\u4f53\u6d17\u624b",
+        "tags": [
+            {
+                "id": "1720543456673684724",
+                "value": "liquid hand",
+                "localValue": "\u6db2\u4f53\u6d17\u624b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "liquid hand",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "liquid hand"
+    },
+    {
+        "id": "a7befd13-3e88-11ef-bdbb-00155ddbc496",
+        "time": 1720594212,
+        "name": "\u5012\u7acb\u624b",
+        "tags": [
+            {
+                "id": "172054345667319744",
+                "value": "inverted hand",
+                "localValue": "\u5012\u7acb\u624b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "inverted hand",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "inverted hand"
+    },
+    {
+        "id": "c20ea92e-3e88-11ef-8821-00155ddbc496",
+        "time": 1720594256,
+        "name": "\u574f_\u63d0\u793a",
+        "tags": [
+            {
+                "id": "1720543456675448664",
+                "value": "bad_prompt",
+                "localValue": "\u574f_\u63d0\u793a",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bad_prompt",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "bad_prompt"
+    },
+    {
+        "id": "c7aa3a1a-3e88-11ef-894e-00155ddbc496",
+        "time": 1720594265,
+        "name": "\u9ed1\u624b",
+        "tags": [
+            {
+                "id": "1720543456676828653",
+                "value": "bad hand",
+                "localValue": "\u9ed1\u624b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bad hand",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bad hand"
+    },
+    {
+        "id": "cb9ed34a-3e88-11ef-9839-00155ddbc496",
+        "time": 1720594272,
+        "name": "\u574f\u827a\u672f\u5bb6",
+        "tags": [
+            {
+                "id": "1720543456676200895",
+                "value": "bad-artist",
+                "localValue": "\u574f\u827a\u672f\u5bb6",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "bad-artist",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value",
+                    "neg-tag"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "bad-artist"
     }
 ]
