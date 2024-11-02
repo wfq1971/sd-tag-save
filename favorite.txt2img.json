@@ -2482,5 +2482,541 @@
             }
         ],
         "prompt": "low angle shot"
+    },
+    {
+        "id": "dd7a0882-984a-11ef-9ad0-00e04c5662ad",
+        "time": 1730463278,
+        "name": "\u85cd\u5bf6\u77f3",
+        "tags": [
+            {
+                "id": "1730463249954546532",
+                "value": "sapphire",
+                "localValue": "\u85cd\u5bf6\u77f3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sapphire",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sapphire"
+    },
+    {
+        "id": "f3a2e5cb-984a-11ef-baaf-00e04c5662ad",
+        "time": 1730463315,
+        "name": "\u5c16\u8033\u6735",
+        "tags": [
+            {
+                "id": "1730463311862507493",
+                "value": "pointy ears",
+                "localValue": "\u5c16\u8033\u6735",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pointy ears",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "pointy ears"
+    },
+    {
+        "id": "3e4afc8e-984b-11ef-9542-00e04c5662ad",
+        "time": 1730463440,
+        "name": "\u517d\u89d2",
+        "tags": [
+            {
+                "id": "1730463432165531608",
+                "value": "horns",
+                "localValue": "\u517d\u89d2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "horns",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "horns"
+    },
+    {
+        "id": "5674433d-984b-11ef-9cfc-00e04c5662ad",
+        "time": 1730463481,
+        "name": "\u950b\u5229\u7684\u7259\u9f7f",
+        "tags": [
+            {
+                "id": "1730463478570841261",
+                "value": "sharp teeth",
+                "localValue": "\u950b\u5229\u7684\u7259\u9f7f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "sharp teeth",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "sharp teeth"
+    },
+    {
+        "id": "6f1dcc15-984b-11ef-88d9-00e04c5662ad",
+        "time": 1730463522,
+        "name": "\u9ad8\u8d28\u91cf",
+        "tags": [
+            {
+                "id": "1730463511616192769",
+                "value": "high quality",
+                "localValue": "\u9ad8\u8d28\u91cf",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "high quality",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "high quality"
+    },
+    {
+        "id": "5e2456fd-9850-11ef-99e4-00e04c5662ad",
+        "time": 1730465641,
+        "name": "\u4eba\u5916\u5a18",
+        "tags": [
+            {
+                "id": "1730465627672921902",
+                "value": "monster girl",
+                "localValue": "\u4eba\u5916\u5a18",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "monster girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "monster girl"
+    },
+    {
+        "id": "56cd3dd7-9851-11ef-a90c-00e04c5662ad",
+        "time": 1730466058,
+        "name": "\u7528\u624b\u652f\u6491\u4f4f",
+        "tags": [
+            {
+                "id": "1730466055650693354",
+                "value": "arm support",
+                "localValue": "\u7528\u624b\u652f\u6491\u4f4f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "arm support",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "arm support"
+    },
+    {
+        "id": "cabe7e73-9851-11ef-80d7-00e04c5662ad",
+        "time": 1730466253,
+        "name": "\u73af\u5883\u7167\u660e",
+        "tags": [
+            {
+                "id": "1730466241724456289",
+                "value": "ambient lighting",
+                "localValue": "\u73af\u5883\u7167\u660e",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "ambient lighting",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "ambient lighting"
+    },
+    {
+        "id": "d84c7b84-985d-11ef-9a51-00e04c5662ad",
+        "time": 1730471430,
+        "name": "\u7535\u5f71\u89d2\u5ea6",
+        "tags": [
+            {
+                "id": "1730471401172145604",
+                "value": "cinematic angle",
+                "localValue": "\u7535\u5f71\u89d2\u5ea6",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "cinematic angle",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "cinematic angle"
+    },
+    {
+        "id": "09b58ed0-985e-11ef-b811-00e04c5662ad",
+        "time": 1730471512,
+        "name": "score_9",
+        "tags": [
+            {
+                "id": "1730471502882103262",
+                "value": "score_9",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_9",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_9"
+    },
+    {
+        "id": "0c9da116-985e-11ef-8400-00e04c5662ad",
+        "time": 1730471517,
+        "name": "score_8_up",
+        "tags": [
+            {
+                "id": "1730471502882923517",
+                "value": "score_8_up",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_8_up",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_8_up"
+    },
+    {
+        "id": "13da0338-985e-11ef-81eb-00e04c5662ad",
+        "time": 1730471529,
+        "name": "score_7_up",
+        "tags": [
+            {
+                "id": "1730471502882243838",
+                "value": "score_7_up",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_7_up",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_7_up"
+    },
+    {
+        "id": "14e93a36-985e-11ef-8c6c-00e04c5662ad",
+        "time": 1730471531,
+        "name": "score_6_up",
+        "tags": [
+            {
+                "id": "1730471502882762595",
+                "value": "score_6_up",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_6_up",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_6_up"
+    },
+    {
+        "id": "1bc45b07-985e-11ef-8653-00e04c5662ad",
+        "time": 1730471543,
+        "name": "score_4_up",
+        "tags": [
+            {
+                "id": "1730471502882418100",
+                "value": "score_4_up",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_4_up",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_4_up"
+    },
+    {
+        "id": "1d4ef79a-985e-11ef-9be9-00e04c5662ad",
+        "time": 1730471545,
+        "name": "score_5_up",
+        "tags": [
+            {
+                "id": "1730471502882808709",
+                "value": "score_5_up",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "score_5_up",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "score_5_up"
+    },
+    {
+        "id": "4322477d-985e-11ef-8b66-00e04c5662ad",
+        "time": 1730471609,
+        "name": "In a cosmopolitan cocktail lounge illuminated by soft",
+        "tags": [
+            {
+                "id": "1730471578117166968",
+                "value": "In a cosmopolitan cocktail lounge illuminated by soft",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "In a cosmopolitan cocktail lounge illuminated by soft",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "In a cosmopolitan cocktail lounge illuminated by soft"
+    },
+    {
+        "id": "7bdb7768-985f-11ef-8bcf-00e04c5662ad",
+        "time": 1730472133,
+        "name": "\u4f4e\u89d2\u5ea6",
+        "tags": [
+            {
+                "id": "1730471919461608372",
+                "value": "lower angle",
+                "localValue": "\u4f4e\u89d2\u5ea6",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lower angle",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lower angle"
+    },
+    {
+        "id": "11cd30fe-9864-11ef-bebf-00e04c5662ad",
+        "time": 1730474103,
+        "name": "\u517d\u8033",
+        "tags": [
+            {
+                "id": "1730474099588647107",
+                "value": "animal ears",
+                "localValue": "\u517d\u8033",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "animal ears",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "animal ears"
     }
 ]

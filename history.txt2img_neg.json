@@ -21728,7 +21728,7 @@
         "name": "",
         "tags": [
             {
-                "id": "1726076643409622755",
+                "id": "1730471023912701264",
                 "value": "hair",
                 "localValue": "",
                 "disabled": false,
@@ -21748,7 +21748,7 @@
                 ]
             },
             {
-                "id": "1726076643409716771",
+                "id": "1730471023912316505",
                 "value": "body hair",
                 "localValue": "",
                 "disabled": false,
@@ -21768,7 +21768,7 @@
                 ]
             },
             {
-                "id": "1726076643409748605",
+                "id": "1730471023913144050",
                 "value": "boring",
                 "localValue": "",
                 "disabled": false,
@@ -21788,7 +21788,7 @@
                 ]
             },
             {
-                "id": "1726076643409567267",
+                "id": "1730471023913565864",
                 "value": "text",
                 "localValue": "\u6587\u5b57",
                 "disabled": false,
@@ -21808,7 +21808,7 @@
                 ]
             },
             {
-                "id": "1726076643410358510",
+                "id": "1730471023913108736",
                 "value": "signature",
                 "localValue": "\u7b7e\u540d",
                 "disabled": false,
@@ -21828,7 +21828,7 @@
                 ]
             },
             {
-                "id": "1726076643410831045",
+                "id": "1730471023913537180",
                 "value": "logo",
                 "localValue": "\u5546\u6807",
                 "disabled": false,
@@ -21848,7 +21848,7 @@
                 ]
             },
             {
-                "id": "1726076643410923996",
+                "id": "1730471023913981606",
                 "value": "watermark",
                 "localValue": "\u6c34\u5370",
                 "disabled": false,
@@ -21868,7 +21868,7 @@
                 ]
             },
             {
-                "id": "1726076643410623601",
+                "id": "1730471023913807500",
                 "value": "low quality",
                 "localValue": "\u4f4e\u8d28\u91cf",
                 "disabled": false,
@@ -21888,7 +21888,7 @@
                 ]
             },
             {
-                "id": "172607664341055801",
+                "id": "1730471023913664350",
                 "value": "bad quality",
                 "localValue": "",
                 "disabled": false,
@@ -21908,7 +21908,7 @@
                 ]
             },
             {
-                "id": "1726076643410831504",
+                "id": "1730471023913505061",
                 "value": "loose artifacts",
                 "localValue": "",
                 "disabled": false,
@@ -21928,7 +21928,7 @@
                 ]
             },
             {
-                "id": "1726076643410865261",
+                "id": "1730471023913375706",
                 "value": "grainy",
                 "localValue": "",
                 "disabled": false,
@@ -21948,7 +21948,7 @@
                 ]
             },
             {
-                "id": "1726076643410676573",
+                "id": "1730471023913379452",
                 "value": "blurry",
                 "localValue": "\u80cc\u666f\u6a21\u7cca / \u6a21\u7cca",
                 "disabled": false,
@@ -21968,7 +21968,7 @@
                 ]
             },
             {
-                "id": "1726076643410135801",
+                "id": "173047102391315931",
                 "value": "long neck",
                 "localValue": "\u957f\u9888",
                 "disabled": false,
@@ -21988,7 +21988,7 @@
                 ]
             },
             {
-                "id": "1726076643410373048",
+                "id": "1730471023913624105",
                 "value": "intricately detailed",
                 "localValue": "",
                 "disabled": false,
@@ -22008,7 +22008,7 @@
                 ]
             },
             {
-                "id": "172607664341039352",
+                "id": "1730471023913479574",
                 "value": "deformed",
                 "localValue": "\u7578\u5f62",
                 "disabled": false,
@@ -22028,7 +22028,7 @@
                 ]
             },
             {
-                "id": "1726076643410862439",
+                "id": "1730471023913555303",
                 "value": "negative_hand",
                 "localValue": "",
                 "disabled": false,
@@ -22048,7 +22048,7 @@
                 ]
             },
             {
-                "id": "1726076643410940615",
+                "id": "1730471023913212049",
                 "value": "negative_hand-neg",
                 "localValue": "",
                 "disabled": false,
@@ -22068,7 +22068,7 @@
                 ]
             },
             {
-                "id": "1726076643410985291",
+                "id": "1730471023913466276",
                 "value": "(worst quality, low quality:2)",
                 "localValue": "(\u4f4e\u8d28\u91cf:2)",
                 "disabled": false,
@@ -22088,7 +22088,7 @@
                 ]
             },
             {
-                "id": "1726076643411600244",
+                "id": "1730471023913168134",
                 "value": "monochrome",
                 "localValue": "\u5355\u8272\u56fe\u7247 / \u5355\u8272",
                 "disabled": false,
@@ -22108,7 +22108,7 @@
                 ]
             },
             {
-                "id": "1726076643411140900",
+                "id": "173047102391376314",
                 "value": "overexposure",
                 "localValue": "\u8fc7\u66dd",
                 "disabled": false,
@@ -22128,7 +22128,7 @@
                 ]
             },
             {
-                "id": "1726076643411139468",
+                "id": "173047102391379418",
                 "value": "watermark",
                 "localValue": "\u6c34\u5370",
                 "disabled": false,
@@ -22148,7 +22148,7 @@
                 ]
             },
             {
-                "id": "1726076643411312174",
+                "id": "1730471023913480612",
                 "value": "text",
                 "localValue": "\u6587\u5b57",
                 "disabled": false,
@@ -22168,7 +22168,7 @@
                 ]
             },
             {
-                "id": "1726076643411314986",
+                "id": "1730471023914435104",
                 "value": "bad anatomy",
                 "localValue": "\u9519\u8bef\u7684\u89e3\u5256",
                 "disabled": false,
@@ -22188,7 +22188,7 @@
                 ]
             },
             {
-                "id": "1726076643411127004",
+                "id": "1730471023914647845",
                 "value": "bad hand",
                 "localValue": "",
                 "disabled": false,
@@ -22208,7 +22208,7 @@
                 ]
             },
             {
-                "id": "1726076643411557731",
+                "id": "1730471023914326701",
                 "value": "((extra hands))",
                 "localValue": "",
                 "disabled": false,
@@ -22228,7 +22228,7 @@
                 ]
             },
             {
-                "id": "1726076643411160238",
+                "id": "1730471023914346697",
                 "value": "extra fingers",
                 "localValue": "",
                 "disabled": false,
@@ -22248,7 +22248,7 @@
                 ]
             },
             {
-                "id": "1726076643411796254",
+                "id": "1730471023914808358",
                 "value": "too many fingers",
                 "localValue": "\u592a\u591a\u624b\u6307",
                 "disabled": false,
@@ -22268,7 +22268,7 @@
                 ]
             },
             {
-                "id": "1726076643411137550",
+                "id": "1730471023914261976",
                 "value": "fused fingers",
                 "localValue": "\u878d\u5408\u7684\u624b\u6307",
                 "disabled": false,
@@ -22288,7 +22288,7 @@
                 ]
             },
             {
-                "id": "1726076643411213595",
+                "id": "1730471023914918222",
                 "value": "bad arm",
                 "localValue": "",
                 "disabled": false,
@@ -22308,7 +22308,7 @@
                 ]
             },
             {
-                "id": "1726076643411638204",
+                "id": "1730471023914163573",
                 "value": "distorted arm",
                 "localValue": "",
                 "disabled": false,
@@ -22328,7 +22328,7 @@
                 ]
             },
             {
-                "id": "172607664341159279",
+                "id": "1730471023914619659",
                 "value": "extra arms",
                 "localValue": "\u591a\u53ea\u624b\u81c2 / \u591a\u4f59\u7684\u624b\u81c2",
                 "disabled": false,
@@ -22348,7 +22348,7 @@
                 ]
             },
             {
-                "id": "1726076643411237392",
+                "id": "1730471023914570738",
                 "value": "fused arms",
                 "localValue": "",
                 "disabled": false,
@@ -22368,7 +22368,7 @@
                 ]
             },
             {
-                "id": "1726076643411771248",
+                "id": "1730471023914890923",
                 "value": "extra legs",
                 "localValue": "\u591a\u4f59\u7684\u817f",
                 "disabled": false,
@@ -22388,7 +22388,7 @@
                 ]
             },
             {
-                "id": "1726076643411626424",
+                "id": "1730471023914956707",
                 "value": "missing leg",
                 "localValue": "",
                 "disabled": false,
@@ -22408,7 +22408,7 @@
                 ]
             },
             {
-                "id": "1726076643411453844",
+                "id": "1730471023914840385",
                 "value": "disembodied leg",
                 "localValue": "",
                 "disabled": false,
@@ -22428,7 +22428,7 @@
                 ]
             },
             {
-                "id": "1726076643411735758",
+                "id": "1730471023914778881",
                 "value": "extra nipples",
                 "localValue": "",
                 "disabled": false,
@@ -22448,7 +22448,7 @@
                 ]
             },
             {
-                "id": "1726076643412191123",
+                "id": "1730471023914680209",
                 "value": "liquid hand",
                 "localValue": "",
                 "disabled": false,
@@ -22468,7 +22468,7 @@
                 ]
             },
             {
-                "id": "17260766434122356",
+                "id": "1730471023914779827",
                 "value": "inverted hand",
                 "localValue": "",
                 "disabled": false,
@@ -22488,7 +22488,7 @@
                 ]
             },
             {
-                "id": "172607664341252079",
+                "id": "1730471023914918033",
                 "value": "disembodied limb",
                 "localValue": "",
                 "disabled": false,
@@ -22508,7 +22508,7 @@
                 ]
             },
             {
-                "id": "1726076643412206961",
+                "id": "1730471023914121742",
                 "value": "oversized head",
                 "localValue": "",
                 "disabled": false,
@@ -22528,7 +22528,7 @@
                 ]
             },
             {
-                "id": "1726076643412116787",
+                "id": "1730471023914726842",
                 "value": "extra body",
                 "localValue": "",
                 "disabled": false,
@@ -22548,7 +22548,7 @@
                 ]
             },
             {
-                "id": "1726076643412247632",
+                "id": "1730471023914817205",
                 "value": "extra navel",
                 "localValue": "",
                 "disabled": false,
@@ -22568,7 +22568,7 @@
                 ]
             },
             {
-                "id": "1726076643412590712",
+                "id": "1730471023914928894",
                 "value": "EasyNegative",
                 "localValue": "",
                 "disabled": false,
@@ -22581,14 +22581,15 @@
                 "loraExists": false,
                 "isLyco": false,
                 "lycoExists": false,
-                "isEmbedding": false,
+                "isEmbedding": true,
+                "embeddingName": "EasyNegative",
                 "classes": [
                     "prompt-tag-value",
-                    "neg-tag"
+                    "embedding-tag"
                 ]
             },
             {
-                "id": "1726076643412596506",
+                "id": "1730471023914567466",
                 "value": "(hair between eyes)",
                 "localValue": "(\u773c\u95f4\u5934\u53d1)",
                 "disabled": false,
@@ -22608,7 +22609,7 @@
                 ]
             },
             {
-                "id": "1726076643412624335",
+                "id": "1730471023914666388",
                 "value": "sketch",
                 "localValue": "\u7d20\u63cf / \u624b\u753b\u8349\u7a3f",
                 "disabled": false,
@@ -22628,7 +22629,7 @@
                 ]
             },
             {
-                "id": "1726076643412822206",
+                "id": "173047102391423855",
                 "value": "duplicate",
                 "localValue": "",
                 "disabled": false,
@@ -22648,7 +22649,7 @@
                 ]
             },
             {
-                "id": "1726076643412621676",
+                "id": "1730471023914604708",
                 "value": "ugly",
                 "localValue": "\u4e11\u964b",
                 "disabled": false,
@@ -22668,7 +22669,7 @@
                 ]
             },
             {
-                "id": "1726076643412190897",
+                "id": "1730471023914291149",
                 "value": "huge eyes",
                 "localValue": "",
                 "disabled": false,
@@ -22688,7 +22689,7 @@
                 ]
             },
             {
-                "id": "1726076643412398032",
+                "id": "1730471023915408114",
                 "value": "text",
                 "localValue": "\u6587\u5b57",
                 "disabled": false,
@@ -22708,7 +22709,7 @@
                 ]
             },
             {
-                "id": "1726076643412307068",
+                "id": "1730471023915635864",
                 "value": "logo",
                 "localValue": "\u5546\u6807",
                 "disabled": false,
@@ -22728,7 +22729,7 @@
                 ]
             },
             {
-                "id": "1726076643412320060",
+                "id": "1730471023915287031",
                 "value": "worst face",
                 "localValue": "",
                 "disabled": false,
@@ -22748,7 +22749,7 @@
                 ]
             },
             {
-                "id": "1726076643412504373",
+                "id": "1730471023915763224",
                 "value": "(bad and mutated hands:1.3)",
                 "localValue": "",
                 "disabled": false,
@@ -22768,7 +22769,7 @@
                 ]
             },
             {
-                "id": "1726076643412187706",
+                "id": "173047102391536642",
                 "value": "(blurry:2)",
                 "localValue": "(\u80cc\u666f\u6a21\u7cca / \u6a21\u7cca:2)",
                 "disabled": false,
@@ -22788,7 +22789,7 @@
                 ]
             },
             {
-                "id": "1726076643412626050",
+                "id": "1730471023915327609",
                 "value": "horror",
                 "localValue": "",
                 "disabled": false,
@@ -22808,7 +22809,7 @@
                 ]
             },
             {
-                "id": "1726076643412345363",
+                "id": "173047102391575385",
                 "value": "geometry",
                 "localValue": "",
                 "disabled": false,
@@ -22828,7 +22829,7 @@
                 ]
             },
             {
-                "id": "1726076643412646945",
+                "id": "1730471023915672448",
                 "value": "bad_prompt",
                 "localValue": "",
                 "disabled": false,
@@ -22848,7 +22849,7 @@
                 ]
             },
             {
-                "id": "1726076643412274324",
+                "id": "1730471023915434404",
                 "value": "(bad hands)",
                 "localValue": "(\u574f\u624b)",
                 "disabled": false,
@@ -22868,7 +22869,7 @@
                 ]
             },
             {
-                "id": "1726076643412229196",
+                "id": "17304710239153734",
                 "value": "(missing fingers)",
                 "localValue": "(\u7f3a\u5c11\u624b\u6307)",
                 "disabled": false,
@@ -22888,7 +22889,7 @@
                 ]
             },
             {
-                "id": "1726076643413567275",
+                "id": "1730471023915284582",
                 "value": "multiple limbs",
                 "localValue": "",
                 "disabled": false,
@@ -22908,7 +22909,7 @@
                 ]
             },
             {
-                "id": "1726076643413896566",
+                "id": "173047102391553139",
                 "value": "bad anatomy",
                 "localValue": "\u9519\u8bef\u7684\u89e3\u5256",
                 "disabled": false,
@@ -22928,7 +22929,7 @@
                 ]
             },
             {
-                "id": "1726076643413468389",
+                "id": "1730471023915245520",
                 "value": "(interlocked fingers:1.2)",
                 "localValue": "(\u7d27\u6263\u7684\u53cc\u624b:1.2)",
                 "disabled": false,
@@ -22948,7 +22949,7 @@
                 ]
             },
             {
-                "id": "1726076643413683095",
+                "id": "1730471023915140024",
                 "value": "Ugly Fingers",
                 "localValue": "",
                 "disabled": false,
@@ -22968,7 +22969,7 @@
                 ]
             },
             {
-                "id": "1726076643413713400",
+                "id": "1730471023915327637",
                 "value": "(extra digit and hands and fingers and legs and arms:1.4)",
                 "localValue": "",
                 "disabled": false,
@@ -22988,7 +22989,7 @@
                 ]
             },
             {
-                "id": "1726076643413738746",
+                "id": "1730471023915950952",
                 "value": "(deformed fingers:1.2)",
                 "localValue": "",
                 "disabled": false,
@@ -23008,7 +23009,7 @@
                 ]
             },
             {
-                "id": "1726076643413870728",
+                "id": "1730471023915946522",
                 "value": "(long fingers:1.2)",
                 "localValue": "",
                 "disabled": false,
@@ -23028,7 +23029,7 @@
                 ]
             },
             {
-                "id": "172607664341338002",
+                "id": "1730471023915676353",
                 "value": "(bad-artist-anime)",
                 "localValue": "",
                 "disabled": false,
@@ -23048,7 +23049,7 @@
                 ]
             },
             {
-                "id": "172607664341356890",
+                "id": "1730471023915293217",
                 "value": "bad-artist",
                 "localValue": "",
                 "disabled": false,
@@ -23068,7 +23069,7 @@
                 ]
             },
             {
-                "id": "1726076643413319993",
+                "id": "1730471023915769999",
                 "value": "bad hand",
                 "localValue": "",
                 "disabled": false,
@@ -23088,7 +23089,7 @@
                 ]
             },
             {
-                "id": "1726076643413165388",
+                "id": "1730471023915541921",
                 "value": "extra legs",
                 "localValue": "\u591a\u4f59\u7684\u817f",
                 "disabled": false,
@@ -23108,7 +23109,7 @@
                 ]
             },
             {
-                "id": "1726076643413416755",
+                "id": "173047102391633161",
                 "value": "((hands on head))",
                 "localValue": "",
                 "disabled": false,
