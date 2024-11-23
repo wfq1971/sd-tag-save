@@ -3018,5 +3018,1263 @@
             }
         ],
         "prompt": "animal ears"
+    },
+    {
+        "id": "4581813d-9de9-11ef-8adc-00e04c5662ad",
+        "time": 1731081069,
+        "name": "((\u5929\u4f7f, \u7fc5\u8180))",
+        "tags": [
+            {
+                "id": "1731081064197940235",
+                "value": "((Angel, wings, angel wings))",
+                "localValue": "((\u5929\u4f7f, \u7fc5\u8180))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "Angel, wings, angel wings",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "Angel, wings, angel wings",
+                    "right": "))"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "((Angel, wings, angel wings))"
+    },
+    {
+        "id": "a4e07493-9de9-11ef-b76b-00e04c5662ad",
+        "time": 1731081229,
+        "name": "upscale 2x",
+        "tags": [
+            {
+                "id": "1731081226178483853",
+                "value": "upscale 2x",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "upscale 2x",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "upscale 2x"
+    },
+    {
+        "id": "cd06256d-9de9-11ef-be0a-00e04c5662ad",
+        "time": 1731081296,
+        "name": "\u6765\u81ea\u4fa7\u9762\u7684\u6ce2\u592b",
+        "tags": [
+            {
+                "id": "1731081284233144409",
+                "value": "Pov from the side",
+                "localValue": "\u6765\u81ea\u4fa7\u9762\u7684\u6ce2\u592b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Pov from the side",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Pov from the side"
+    },
+    {
+        "id": "e1b92ae4-9de9-11ef-b5a5-00e04c5662ad",
+        "time": 1731081331,
+        "name": "\u5973\u7cbe\u7075",
+        "tags": [
+            {
+                "id": "1731081326583759347",
+                "value": "female elf",
+                "localValue": "\u5973\u7cbe\u7075",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "female elf",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "female elf"
+    },
+    {
+        "id": "f85332e1-9de9-11ef-82f1-00e04c5662ad",
+        "time": 1731081369,
+        "name": "\u5f20\u5f00\u7684\u5634 / \u5634\u5507\u5f20\u5f00",
+        "tags": [
+            {
+                "id": "1731081366050637498",
+                "value": "parted lips",
+                "localValue": "\u5f20\u5f00\u7684\u5634 / \u5634\u5507\u5f20\u5f00",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "parted lips",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "parted lips"
+    },
+    {
+        "id": "4822aec0-9ded-11ef-b441-00e04c5662ad",
+        "time": 1731082791,
+        "name": "\u957f\u8896\u624b\u5957\uff08\u8098\u90e8\u624b\u5957)",
+        "tags": [
+            {
+                "id": "1731082788309205424",
+                "value": "elbow gloves",
+                "localValue": "\u957f\u8896\u624b\u5957\uff08\u8098\u90e8\u624b\u5957)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "elbow gloves",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "elbow gloves"
+    },
+    {
+        "id": "87e88257-9ded-11ef-b352-00e04c5662ad",
+        "time": 1731082898,
+        "name": "\u5934\u53d1\u8fc7\u5ea6\u6d53\u5bc6",
+        "tags": [
+            {
+                "id": "1731082838046431058",
+                "value": "hair over sholder",
+                "localValue": "\u5934\u53d1\u8fc7\u5ea6\u6d53\u5bc6",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "hair over sholder",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "hair over sholder"
+    },
+    {
+        "id": "c59f6df6-9ded-11ef-a8ff-00e04c5662ad",
+        "time": 1731083002,
+        "name": "\u9501\u9aa8",
+        "tags": [
+            {
+                "id": "1731082997233113967",
+                "value": "collarbone",
+                "localValue": "\u9501\u9aa8",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "collarbone",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "collarbone"
+    },
+    {
+        "id": "7f1ed3bc-9dee-11ef-b151-00e04c5662ad",
+        "time": 1731083313,
+        "name": "\u5b8c\u7f8e\u7684\u773c\u7ebf\u98ce\u683c",
+        "tags": [
+            {
+                "id": "1731083307684823207",
+                "value": "perfect sclera eye style",
+                "localValue": "\u5b8c\u7f8e\u7684\u773c\u7ebf\u98ce\u683c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect sclera eye style",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "perfect sclera eye style"
+    },
+    {
+        "id": "42334ed3-9def-11ef-9efe-00e04c5662ad",
+        "time": 1731083640,
+        "name": "\u6d3b\u6f51\u7684\u5c0f\u80f8\u90e8",
+        "tags": [
+            {
+                "id": "1731083387761747649",
+                "value": "perky small tits",
+                "localValue": "\u6d3b\u6f51\u7684\u5c0f\u80f8\u90e8",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perky small tits",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "perky small tits"
+    },
+    {
+        "id": "4698b14d-9def-11ef-8603-00e04c5662ad",
+        "time": 1731083647,
+        "name": "\u633a\u62d4\u7684\u4e73\u623f",
+        "tags": [
+            {
+                "id": "1731083387761612414",
+                "value": "perky tits",
+                "localValue": "\u633a\u62d4\u7684\u4e73\u623f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perky tits",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "perky tits"
+    },
+    {
+        "id": "5f09cfd3-9def-11ef-b32d-00e04c5662ad",
+        "time": 1731083688,
+        "name": "\u88f8\u9732\u7684\u732b\u54aa",
+        "tags": [
+            {
+                "id": "1731083683359186921",
+                "value": "naked pussy",
+                "localValue": "\u88f8\u9732\u7684\u732b\u54aa",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "naked pussy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "naked pussy"
+    },
+    {
+        "id": "7892ec02-9def-11ef-b801-00e04c5662ad",
+        "time": 1731083731,
+        "name": "\u7c89\u7ea2\u8272\u7684\u4e73\u5934",
+        "tags": [
+            {
+                "id": "1731083725830271447",
+                "value": "pink nipples",
+                "localValue": "\u7c89\u7ea2\u8272\u7684\u4e73\u5934",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "pink nipples",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "pink nipples"
+    },
+    {
+        "id": "f8ef606f-9df0-11ef-b1a7-00e04c5662ad",
+        "time": 1731084376,
+        "name": "\u4ee5\u6700\u7ec8\u5e7b\u60f3\u98ce\u683c\u975e\u5e38\u7f8e\u4e3d",
+        "tags": [
+            {
+                "id": "1731084370917356642",
+                "value": "very beautiful in final fantasy style",
+                "localValue": "\u4ee5\u6700\u7ec8\u5e7b\u60f3\u98ce\u683c\u975e\u5e38\u7f8e\u4e3d",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "very beautiful in final fantasy style",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "very beautiful in final fantasy style"
+    },
+    {
+        "id": "0e4c49cc-9df1-11ef-a9cc-00e04c5662ad",
+        "time": 1731084412,
+        "name": "\u5979\u7684\u7f8e\u4e3d\u65e0\u4e0e\u4f26\u6bd4",
+        "tags": [
+            {
+                "id": "1731084407529950200",
+                "value": "her beauty is unmatched",
+                "localValue": "\u5979\u7684\u7f8e\u4e3d\u65e0\u4e0e\u4f26\u6bd4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "her beauty is unmatched",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "her beauty is unmatched"
+    },
+    {
+        "id": "236cd172-9df1-11ef-a8ea-00e04c5662ad",
+        "time": 1731084447,
+        "name": "\u4ed9\u5973",
+        "tags": [
+            {
+                "id": "1731084442254795961",
+                "value": "Fairy woman",
+                "localValue": "\u4ed9\u5973",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Fairy woman",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Fairy woman"
+    },
+    {
+        "id": "24f0524b-9df1-11ef-a47f-00e04c5662ad",
+        "time": 1731084450,
+        "name": "\u7a7f\u7740\u88c5\u9970\u7684\u88d9\u5b50",
+        "tags": [
+            {
+                "id": "1731084442254394249",
+                "value": "in a decorated dress",
+                "localValue": "\u7a7f\u7740\u88c5\u9970\u7684\u88d9\u5b50",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "in a decorated dress",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "in a decorated dress"
+    },
+    {
+        "id": "9e83baaa-9df1-11ef-b91e-00e04c5662ad",
+        "time": 1731084654,
+        "name": "\u5065\u7855\u7684\u8eab\u4f53",
+        "tags": [
+            {
+                "id": "1731084646797183897",
+                "value": "athletic body",
+                "localValue": "\u5065\u7855\u7684\u8eab\u4f53",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "athletic body",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "athletic body"
+    },
+    {
+        "id": "c57230ff-9df1-11ef-9170-00e04c5662ad",
+        "time": 1731084719,
+        "name": "\u89d2\u5ea6\u4f18\u96c5\u7684\u5973\u6027\u9762\u5bb9",
+        "tags": [
+            {
+                "id": "1731084714235252654",
+                "value": "angular feminine face",
+                "localValue": "\u89d2\u5ea6\u4f18\u96c5\u7684\u5973\u6027\u9762\u5bb9",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "angular feminine face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "angular feminine face"
+    },
+    {
+        "id": "02eb8d82-9df2-11ef-af8b-00e04c5662ad",
+        "time": 1731084822,
+        "name": "\u77ed\u6307\u5957\u624b\u5957",
+        "tags": [
+            {
+                "id": "1731084814066839427",
+                "value": "short fingerless gloves",
+                "localValue": "\u77ed\u6307\u5957\u624b\u5957",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "short fingerless gloves",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "short fingerless gloves"
+    },
+    {
+        "id": "044c3a01-9df2-11ef-bc0d-00e04c5662ad",
+        "time": 1731084825,
+        "name": "\u7a7f\u7740\u534e\u4e3d\u7684\u957f\u8896\u5149\u6ed1\u672a\u6765\u4e3b\u4e49\u767d\u8272\u8fde\u4f53\u8863",
+        "tags": [
+            {
+                "id": "1731084814066427630",
+                "value": "Wearing sleek long sleeved smooth futuristic white bodysuit",
+                "localValue": "\u7a7f\u7740\u534e\u4e3d\u7684\u957f\u8896\u5149\u6ed1\u672a\u6765\u4e3b\u4e49\u767d\u8272\u8fde\u4f53\u8863",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Wearing sleek long sleeved smooth futuristic white bodysuit",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Wearing sleek long sleeved smooth futuristic white bodysuit"
+    },
+    {
+        "id": "2101f5a4-9df2-11ef-a283-00e04c5662ad",
+        "time": 1731084873,
+        "name": "\u8868\u8fbe\u80fd\u529b\u5f37",
+        "tags": [
+            {
+                "id": "1731084862649651939",
+                "value": "Expressiveh",
+                "localValue": "\u8868\u8fbe\u80fd\u529b\u5f37",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Expressiveh",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "Expressiveh"
+    },
+    {
+        "id": "be6d6f16-9dfa-11ef-9a51-00e04c5662ad",
+        "time": 1731088573,
+        "name": "\u72fc\u8033\u6735",
+        "tags": [
+            {
+                "id": "1731088524372413360",
+                "value": "wolf ears",
+                "localValue": "\u72fc\u8033\u6735",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "wolf ears",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "wolf ears"
+    },
+    {
+        "id": "c205d24c-9dfa-11ef-b3f8-00e04c5662ad",
+        "time": 1731088579,
+        "name": "\u5927\u817f\u7f1d\u9699",
+        "tags": [
+            {
+                "id": "1731088524372821939",
+                "value": "Thigh gap",
+                "localValue": "\u5927\u817f\u7f1d\u9699",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Thigh gap",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false,
+                "isEnglish": 1,
+                "toLocal": true
+            }
+        ],
+        "prompt": "Thigh gap"
+    },
+    {
+        "id": "d464792b-9dfa-11ef-9c58-00e04c5662ad",
+        "time": 1731088610,
+        "name": "\u65e0\u8f9c",
+        "tags": [
+            {
+                "id": "1731088605424352397",
+                "value": "innocent",
+                "localValue": "\u65e0\u8f9c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "innocent",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "innocent"
+    },
+    {
+        "id": "d5f5f476-9dfa-11ef-9300-00e04c5662ad",
+        "time": 1731088612,
+        "name": "\u7075\u654f",
+        "tags": [
+            {
+                "id": "1731088605424380403",
+                "value": "lithe",
+                "localValue": "\u7075\u654f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lithe",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lithe"
+    },
+    {
+        "id": "e957dd10-9dfa-11ef-885e-00e04c5662ad",
+        "time": 1731088645,
+        "name": "\u7ea4\u7ec6\u7684\u8170",
+        "tags": [
+            {
+                "id": "1731088640719732066",
+                "value": "tiny waist",
+                "localValue": "\u7ea4\u7ec6\u7684\u8170",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "tiny waist",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "tiny waist"
+    },
+    {
+        "id": "2354282c-9dfb-11ef-accf-00e04c5662ad",
+        "time": 1731088742,
+        "name": "\u5b8c\u7f8e\u808c\u80a4",
+        "tags": [
+            {
+                "id": "1731088737827862704",
+                "value": "perfect skin",
+                "localValue": "\u5b8c\u7f8e\u808c\u80a4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect skin",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "perfect skin"
+    },
+    {
+        "id": "2602aa60-9dfb-11ef-912e-00e04c5662ad",
+        "time": 1731088747,
+        "name": "\u95ea\u4eae\u53ef\u7231\u6f02\u4eae\u7684\u8138",
+        "tags": [
+            {
+                "id": "1731088737827210580",
+                "value": "shiny cute pretty face",
+                "localValue": "\u95ea\u4eae\u53ef\u7231\u6f02\u4eae\u7684\u8138",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "shiny cute pretty face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "shiny cute pretty face"
+    },
+    {
+        "id": "512f2401-9dfb-11ef-9671-00e04c5662ad",
+        "time": 1731088819,
+        "name": "\u4e73\u5934",
+        "tags": [
+            {
+                "id": "1731088806363507085",
+                "value": "nipples",
+                "localValue": "\u4e73\u5934",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "nipples",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "nipples"
+    },
+    {
+        "id": "59c18122-9dfb-11ef-9dc2-00e04c5662ad",
+        "time": 1731088833,
+        "name": "\u4e73\u623f",
+        "tags": [
+            {
+                "id": "1731088806363958248",
+                "value": "breasts",
+                "localValue": "\u4e73\u623f",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "breasts",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "breasts"
+    },
+    {
+        "id": "5f0d4575-9dfb-11ef-9a97-00e04c5662ad",
+        "time": 1731088842,
+        "name": "\u9634\u9053",
+        "tags": [
+            {
+                "id": "1731088806363391297",
+                "value": "vagina",
+                "localValue": "\u9634\u9053",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "vagina",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": "536a6c18-9dfb-11ef-98d7-00e04c5662ad"
+            }
+        ],
+        "prompt": "vagina"
+    },
+    {
+        "id": "60b27df3-9dfb-11ef-a8e5-00e04c5662ad",
+        "time": 1731088845,
+        "name": "(\u5b8c\u7f8e\u7684\u4e73\u5934:2)",
+        "tags": [
+            {
+                "id": "1731088806363392245",
+                "value": "(perfect nipples:2)",
+                "localValue": "(\u5b8c\u7f8e\u7684\u4e73\u5934:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "perfect nipples",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "perfect nipples",
+                    "right": ":2)"
+                },
+                "isFavorite": "54b9b8db-9dfb-11ef-9b49-00e04c5662ad"
+            }
+        ],
+        "prompt": "(perfect nipples:2)"
+    },
+    {
+        "id": "641d1598-9dfb-11ef-9e5f-00e04c5662ad",
+        "time": 1731088851,
+        "name": "(\u52c3\u8d77\u7684\u4e73\u5934:2)",
+        "tags": [
+            {
+                "id": "1731088806363555427",
+                "value": "(erect nipples:2)",
+                "localValue": "(\u52c3\u8d77\u7684\u4e73\u5934:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "erect nipples",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "erect nipples",
+                    "right": ":2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(erect nipples:2)"
+    },
+    {
+        "id": "67de98c0-9dfb-11ef-ba9c-00e04c5662ad",
+        "time": 1731088857,
+        "name": "(\u900f\u8fc7\u8863\u670d\u53ef\u89c1\u4e73\u5934:2)",
+        "tags": [
+            {
+                "id": "17310888063641747",
+                "value": "(visible through clothes nipples:2)",
+                "localValue": "(\u900f\u8fc7\u8863\u670d\u53ef\u89c1\u4e73\u5934:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "visible through clothes nipples",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "visible through clothes nipples",
+                    "right": ":2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(visible through clothes nipples:2)"
+    },
+    {
+        "id": "6ace5323-9dfb-11ef-af7a-00e04c5662ad",
+        "time": 1731088862,
+        "name": "(\u900f\u8fc7\u8863\u670d\u53ef\u89c1\u9634\u9053:2)",
+        "tags": [
+            {
+                "id": "1731088806364715751",
+                "value": "(visible through clothes vagina:2)",
+                "localValue": "(\u900f\u8fc7\u8863\u670d\u53ef\u89c1\u9634\u9053:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "visible through clothes vagina",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "visible through clothes vagina",
+                    "right": ":2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(visible through clothes vagina:2)"
+    },
+    {
+        "id": "6f0c94e6-9dfb-11ef-9629-00e04c5662ad",
+        "time": 1731088869,
+        "name": "\u53ef\u89c1\u7684\u80f8\u90e8",
+        "tags": [
+            {
+                "id": "1731088806364688852",
+                "value": "visible breasts",
+                "localValue": "\u53ef\u89c1\u7684\u80f8\u90e8",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "visible breasts",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "visible breasts"
+    },
+    {
+        "id": "72459ad4-9dfb-11ef-8462-00e04c5662ad",
+        "time": 1731088875,
+        "name": "\u53ef\u89c1\u7684\u9634\u9053",
+        "tags": [
+            {
+                "id": "1731088806364424667",
+                "value": "visible vagina",
+                "localValue": "\u53ef\u89c1\u7684\u9634\u9053",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "visible vagina",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "visible vagina"
+    },
+    {
+        "id": "7456f177-9dfb-11ef-84ea-00e04c5662ad",
+        "time": 1731088878,
+        "name": "(\u6027\u611f\u59ff\u52bf:2)",
+        "tags": [
+            {
+                "id": "1731088806364453868",
+                "value": "(sexy pose:2)",
+                "localValue": "(\u6027\u611f\u59ff\u52bf:2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 2,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "sexy pose",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "sexy pose",
+                    "right": ":2)"
+                },
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(sexy pose:2)"
+    },
+    {
+        "id": "7836d871-9dfb-11ef-9f60-00e04c5662ad",
+        "time": 1731088885,
+        "name": "\u9634\u8482\u5305\u76ae",
+        "tags": [
+            {
+                "id": "1731088806364209641",
+                "value": "clitoral hood",
+                "localValue": "\u9634\u8482\u5305\u76ae",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "clitoral hood",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "clitoral hood"
+    },
+    {
+        "id": "799c06e3-9dfb-11ef-be62-00e04c5662ad",
+        "time": 1731088887,
+        "name": "\u8be6\u7ec6\u9634\u9053",
+        "tags": [
+            {
+                "id": "1731088806364179955",
+                "value": "detailed vagina",
+                "localValue": "\u8be6\u7ec6\u9634\u9053",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detailed vagina",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "detailed vagina"
     }
 ]
