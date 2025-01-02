@@ -4276,5 +4276,245 @@
             }
         ],
         "prompt": "detailed vagina"
+    },
+    {
+        "id": "708ba702-bba6-11ef-b49e-00e04c5662ad",
+        "time": 1734350899,
+        "name": "\u86c7\u773c",
+        "tags": [
+            {
+                "id": "1734350891163867152",
+                "value": "snake eyes",
+                "localValue": "\u86c7\u773c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "snake eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "snake eyes"
+    },
+    {
+        "id": "6ea3094d-bd53-11ef-abff-00e04c5662ad",
+        "time": 1734535150,
+        "name": "\u65e0\u6bdb\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535080157550153",
+                "value": "furless tail",
+                "localValue": "\u65e0\u6bdb\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "furless tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "furless tail"
+    },
+    {
+        "id": "a1c76554-bd53-11ef-be16-00e04c5662ad",
+        "time": 1734535236,
+        "name": "\u6bdb\u8338\u8338\u7684\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535218610342181",
+                "value": "furry tail",
+                "localValue": "\u6bdb\u8338\u8338\u7684\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "furry tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": "9c891102-bd53-11ef-bee9-00e04c5662ad"
+            }
+        ],
+        "prompt": "furry tail"
+    },
+    {
+        "id": "c2dc6a42-bd53-11ef-9d01-00e04c5662ad",
+        "time": 1734535292,
+        "name": "\u6bdb\u8338\u8338\u7684\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535218610342181",
+                "value": "fluffy tail",
+                "localValue": "\u6bdb\u8338\u8338\u7684\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "fluffy tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "fluffy tail"
+    },
+    {
+        "id": "edd40c78-bd53-11ef-a894-00e04c5662ad",
+        "time": 1734535364,
+        "name": "\u9cde\u7247\u8986\u76d6\u7684\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535218610342181",
+                "value": "scaly tail",
+                "localValue": "\u9cde\u7247\u8986\u76d6\u7684\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "scaly tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "scaly tail"
+    },
+    {
+        "id": "6e182058-bd54-11ef-9d62-00e04c5662ad",
+        "time": 1734535579,
+        "name": "\u9a6c\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535574485705814",
+                "value": "horse tail",
+                "localValue": "\u9a6c\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "horse tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "horse tail"
+    },
+    {
+        "id": "e3d5e161-bd54-11ef-9fd9-00e04c5662ad",
+        "time": 1734535776,
+        "name": "\u7a7f\u8fc7\u8863\u670d\u7684\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535771366903760",
+                "value": "tail through clothes",
+                "localValue": "\u7a7f\u8fc7\u8863\u670d\u7684\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "tail through clothes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "tail through clothes"
+    },
+    {
+        "id": "276cc0cf-bd55-11ef-93d0-00e04c5662ad",
+        "time": 1734535890,
+        "name": "\u62ac\u8d77\u7684\u5c3e\u5df4",
+        "tags": [
+            {
+                "id": "1734535884311950067",
+                "value": "lifted tail",
+                "localValue": "\u62ac\u8d77\u7684\u5c3e\u5df4",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "lifted tail",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "lifted tail"
     }
 ]

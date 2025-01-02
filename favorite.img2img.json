@@ -3834,5 +3834,35 @@
             }
         ],
         "prompt": "luminous eyes"
+    },
+    {
+        "id": "ee664fdb-bbb6-11ef-8461-00e04c5662ad",
+        "time": 1734357982,
+        "name": "\u732b\u773c / \u7ad6\u7684\u77b3\u5b54/\u732b\u773c",
+        "tags": [
+            {
+                "id": "1734357975547100866",
+                "value": "slit pupils",
+                "localValue": "\u732b\u773c / \u7ad6\u7684\u77b3\u5b54/\u732b\u773c",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "slit pupils",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "isFavorite": false
+            }
+        ],
+        "prompt": "slit pupils"
     }
 ]
