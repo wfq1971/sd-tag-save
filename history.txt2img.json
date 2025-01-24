@@ -1,1400 +1,5 @@
 [
     {
-        "id": "4c71e5f1-bc73-11ef-aeb3-00e04c5662ad",
-        "time": 1734438886,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734437959775108073",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734437959776254122",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734437959776113311",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            },
-            {
-                "id": "1734437959776412224",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1734437959776821660",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,full body,navel,<lora:face3:0.9>,",
-        "is_favorite": false
-    },
-    {
-        "id": "07cd0ca4-bcc8-11ef-b0a9-00e04c5662ad",
-        "time": 1734475278,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734475277887336983",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887790872",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887941645",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887416015",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887783829",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887100904",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887854303",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734475277887304832",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,<lora:face3:0.9>,<lora:face3-30:1>,",
-        "is_favorite": false
-    },
-    {
-        "id": "09efc42b-bcc8-11ef-9a38-00e04c5662ad",
-        "time": 1734475281,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734475277887336983",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887790872",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887941645",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887416015",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887783829",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887100904",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887854303",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887304832",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,<lora:face3-30:1>,",
-        "is_favorite": false
-    },
-    {
-        "id": "965a2a0c-bcf7-11ef-88a0-00e04c5662ad",
-        "time": 1734495703,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734475277887336983",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887790872",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887941645",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887416015",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887783829",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true,
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887100904",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ],
-                "isEnglish": 1,
-                "toLocal": true
-            },
-            {
-                "id": "1734475277887854303",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.8,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1734475277887304832",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,",
-        "is_favorite": false
-    },
-    {
-        "id": "df564d40-bcf7-11ef-b6d7-00e04c5662ad",
-        "time": 1734495826,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734530053346870608",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347647263",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347265761",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347295636",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "17345300533479169",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347738100",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347634152",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347425343",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347341477",
-                "value": "<lora:cswpfv5:1>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:cswpfv5:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "cswpfv5",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,<lora:cswpfv5:1>,",
-        "is_favorite": false
-    },
-    {
-        "id": "b160433d-bd47-11ef-8517-00e04c5662ad",
-        "time": 1734530108,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734530053346870608",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347647263",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347265761",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347295636",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "17345300533479169",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347738100",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347634152",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347425343",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347341477",
-                "value": "<lora:cswpfv5:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:cswpfv5:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "cswpfv5",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,",
-        "is_favorite": false
-    },
-    {
-        "id": "b252194e-bd47-11ef-b543-00e04c5662ad",
-        "time": 1734530110,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734530053346870608",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347647263",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347265761",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347295636",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "17345300533479169",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347738100",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347634152",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347425343",
-                "value": "<lora:face3-30:1>",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3-30:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3-30",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            },
-            {
-                "id": "1734530053347341477",
-                "value": "<lora:cswpfv5:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:cswpfv5:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "cswpfv5",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,<lora:face3-30:1>,",
-        "is_favorite": false
-    },
-    {
-        "id": "cbc775c3-bd47-11ef-8f7e-00e04c5662ad",
-        "time": 1734530153,
-        "name": "",
-        "tags": [
-            {
-                "id": "1734530053346870608",
-                "value": "1girl",
-                "localValue": "1\u5973\u5b69",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "1girl",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347647263",
-                "value": "cswpf",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "cswpf",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347265761",
-                "value": "face",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "face",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347295636",
-                "value": "full body",
-                "localValue": "",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "full body",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "17345300533479169",
-                "value": "navel",
-                "localValue": "\u809a\u8110",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "navel",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347738100",
-                "value": "feet",
-                "localValue": "\u811a",
-                "disabled": false,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "feet",
-                "isLora": false,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "classes": [
-                    "prompt-tag-value"
-                ]
-            },
-            {
-                "id": "1734530053347634152",
-                "value": "<lora:face3:0.9>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 0.9,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:face3:0.9>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "face3",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ]
-            },
-            {
-                "id": "1734530053347341477",
-                "value": "<lora:cswpfv5:1>",
-                "localValue": "",
-                "disabled": true,
-                "type": "text",
-                "weightNum": 1,
-                "incWeight": 0,
-                "decWeight": 0,
-                "originalValue": "<lora:cswpfv5:1>",
-                "isLora": true,
-                "loraExists": false,
-                "isLyco": false,
-                "lycoExists": false,
-                "isEmbedding": false,
-                "loraName": "cswpfv5",
-                "classes": [
-                    "prompt-tag-value",
-                    "lora-tag",
-                    "lora-not-exists"
-                ],
-                "isFavorite": false
-            }
-        ],
-        "prompt": "1girl,cswpf,face,full body,navel,feet,",
-        "is_favorite": false
-    },
-    {
         "id": "e57f687f-bd47-11ef-926b-00e04c5662ad",
         "time": 1734530196,
         "name": "",
@@ -12466,5 +11071,757 @@
             }
         ],
         "prompt": "1girl,cswpf,face,long hair,<lora:face3-20:0.8>,"
+    },
+    {
+        "id": "f84b136f-ca59-11ef-a1f4-9a97ccfa9bed",
+        "time": 1735967323,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,"
+    },
+    {
+        "id": "f8c14fa0-ca59-11ef-a494-9a97ccfa9bed",
+        "time": 1735967324,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,"
+    },
+    {
+        "id": "f9fa14e5-ca59-11ef-b633-9a97ccfa9bed",
+        "time": 1735967326,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,"
+    },
+    {
+        "id": "fa8ef7dd-ca59-11ef-bc82-9a97ccfa9bed",
+        "time": 1735967327,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967327458132949",
+                "value": "award winning",
+                "localValue": "\u83b7\u5956",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "award winning",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,award winning,"
+    },
+    {
+        "id": "fbe1b0bc-ca59-11ef-af2b-9a97ccfa9bed",
+        "time": 1735967329,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967327458132949",
+                "value": "award winning",
+                "localValue": "\u83b7\u5956",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "award winning",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967329621761360",
+                "value": "high definition",
+                "localValue": "\u9ad8\u6e05",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "high definition",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,award winning,high definition,"
+    },
+    {
+        "id": "fd03eb13-ca59-11ef-bb37-9a97ccfa9bed",
+        "time": 1735967331,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967327458132949",
+                "value": "award winning",
+                "localValue": "\u83b7\u5956",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "award winning",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967329621761360",
+                "value": "high definition",
+                "localValue": "\u9ad8\u6e05",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "high definition",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967331537971014",
+                "value": "gorgeous",
+                "localValue": "\u534e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "gorgeous",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,award winning,high definition,gorgeous,"
+    },
+    {
+        "id": "793d8dc4-ca91-11ef-8d69-9a97ccfa9bed",
+        "time": 1735991162,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "956e0f53-a323-11ee-a5cc-9897ccfa9bed"
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "7825df12-a6df-11ee-b0ef-00155da6e5a8"
+            },
+            {
+                "id": "1735967327458132949",
+                "value": "award winning",
+                "localValue": "\u83b7\u5956",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "award winning",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967329621761360",
+                "value": "high definition",
+                "localValue": "\u9ad8\u6e05",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "high definition",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967331537971014",
+                "value": "gorgeous",
+                "localValue": "\u534e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "gorgeous",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735991162341161007",
+                "value": "narrow_waist",
+                "localValue": "\u7ec6\u8170",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "narrow_waist",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,award winning,high definition,gorgeous,narrow_waist,"
+    },
+    {
+        "id": "7a052ba3-ca91-11ef-ba6f-9a97ccfa9bed",
+        "time": 1735991163,
+        "name": "",
+        "tags": [
+            {
+                "id": "1735967323218681191",
+                "value": "perfect proportions",
+                "localValue": "\u5b8c\u7f8e\u7684\u6bd4\u4f8b",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect proportions",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "956e0f53-a323-11ee-a5cc-9897ccfa9bed"
+            },
+            {
+                "id": "1735967324468852854",
+                "value": "perfect anatomy",
+                "localValue": "\u5b8c\u7f8e\u7684\u89e3\u5256\u5b66",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "perfect anatomy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967326456738037",
+                "value": "beautiful",
+                "localValue": "\u7f8e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "7825df12-a6df-11ee-b0ef-00155da6e5a8"
+            },
+            {
+                "id": "1735967327458132949",
+                "value": "award winning",
+                "localValue": "\u83b7\u5956",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "award winning",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967329621761360",
+                "value": "high definition",
+                "localValue": "\u9ad8\u6e05",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "high definition",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735967331537971014",
+                "value": "gorgeous",
+                "localValue": "\u534e\u4e3d\u7684",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "gorgeous",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735991162341161007",
+                "value": "narrow_waist",
+                "localValue": "\u7ec6\u8170",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "narrow_waist",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1735991163606983585",
+                "value": "slender_waist",
+                "localValue": "\u7ea4\u7ec6\u7684\u8170",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "slender_waist",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            }
+        ],
+        "prompt": "perfect proportions,perfect anatomy,beautiful,award winning,high definition,gorgeous,narrow_waist,slender_waist,"
     }
 ]
